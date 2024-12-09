@@ -1,0 +1,6 @@
+@APIDirecionadores_HostAddress = http://localhost:5070
+
+GET {{APIDirecionadores_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
