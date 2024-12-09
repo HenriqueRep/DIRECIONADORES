@@ -50,7 +50,10 @@ namespace APIDirecionadores.Controllers
 
                 return Ok(new { Message = message, FilePath = filePath });
             }
-           
+            catch (InvalidOperationException ex)
+            {
+                return BadRequest(new { Error = ex.Message });
+            }
             catch (Exception ex)
             {
                 return StatusCode(500, new { Error = ex.Message });
@@ -116,7 +119,10 @@ namespace APIDirecionadores.Controllers
 
                 return Ok(filteredData);
             }
-           
+            catch (InvalidOperationException ex)
+            {
+                return BadRequest(new { Error = ex.Message });
+            }
             catch (Exception ex)
             {
                 return StatusCode(500, new { Error = ex.Message });
