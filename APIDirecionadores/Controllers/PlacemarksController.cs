@@ -1,6 +1,5 @@
 ﻿using APIDirecionadores.Interface;
 using APIDirecionadores.Models;
-using APIDirecionadores.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace APIDirecionadores.Controllers
@@ -13,7 +12,7 @@ namespace APIDirecionadores.Controllers
         private readonly IPlacermarkFilterService _placermarkFilterService;
         private readonly ILogger<KmlController> _logger;
 
-        public KmlController(IKmlFileService kmlFileService, IPlacermarkFilterService placermarkFilterService,ILogger<KmlController> logger)
+        public KmlController(IKmlFileService kmlFileService, IPlacermarkFilterService placermarkFilterService, ILogger<KmlController> logger)
         {
             _logger = logger;
             _kmlFileService = kmlFileService;
@@ -29,8 +28,8 @@ namespace APIDirecionadores.Controllers
                 _logger.LogInformation("Arquivo KML processado com sucesso.");
 
                 return Ok(document);
-            }          
-       
+            }
+
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Erro ao processar o arquivo KML.");
@@ -55,9 +54,9 @@ namespace APIDirecionadores.Controllers
 
                 return Ok(new { Message = resultMessage, FilePath = filePath });
             }
-            catch (Exception ex)
+            catch (ArgumentException ex)
             {
-                return StatusCode(500, new { Error = ex.Message });
+                return BadRequest(ex.Message);
             }
         }
 
@@ -75,20 +74,19 @@ namespace APIDirecionadores.Controllers
 
                 return Ok(Jsonlister);
 
-            }       
-            catch (Exception ex)
+            }
+            catch (ArgumentException ex)
             {
-                return StatusCode(400, new { Error = ex.Message });
+                return BadRequest(ex.Message);
             }
         }
 
-
         [HttpGet("filters")]
-        public IActionResult GetListFilter()
+        public IActionResult GetListFilter(PlacemarkDTO placemarkDTO)
         {
             try
             {
-                var filterOptions = _placermarkFilterService.GetListFilter();
+                var filterOptions = _placermarkFilterService.FilterPlacemarksCSB(placemarkDTO);
                 return Ok(filterOptions);
             }
             catch (Exception ex)

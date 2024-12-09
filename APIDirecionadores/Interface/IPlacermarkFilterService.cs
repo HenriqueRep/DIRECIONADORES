@@ -6,7 +6,10 @@ namespace APIDirecionadores.Interface
     public interface IPlacermarkFilterService
     {
         List<ExtendedDataModel> FilterPlacemarks(PlacemarkModel filter);
+        List<ExtendedDataModel> FilterPlacemarksCSB(PlacemarkDTO filter);
         Document CreateFilteredKmlDocument(PlacemarkModel filter);
-        Dictionary<string, List<string>> GetListFilter();
+     
+
+
     }
 }

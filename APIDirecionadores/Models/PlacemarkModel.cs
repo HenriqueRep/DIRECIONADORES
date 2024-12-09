@@ -6,13 +6,13 @@ namespace APIDirecionadores.Models
     public class PlacemarkModel
     {
         [FromQuery]
-        public string? Cliente { get; set; }
+        public List<string>? Cliente { get; set; }
 
         [FromQuery]
-        public string? Situacao { get; set; }
+        public List<string>? Situacao { get; set; }
 
         [FromQuery]
-        public string? Bairro { get; set; }
+        public List<string>? Bairro { get; set; }
 
         [FromQuery]
         [MinLength(3, ErrorMessage = "O campo 'Referencia' deve ter pelo menos 3 caracteres.")]
