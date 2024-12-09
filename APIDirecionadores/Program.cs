@@ -11,6 +11,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IKmlFileService, KmlFileService>();
+builder.Services.AddScoped<IPlacermarkFilterService, PlacermarkFilterService>();
 builder.Services.AddMemoryCache();
 
 var app = builder.Build();

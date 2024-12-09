@@ -1,5 +1,6 @@
 ﻿using APIDirecionadores.Interface;
 using APIDirecionadores.Models;
+using APIDirecionadores.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace APIDirecionadores.Controllers
@@ -9,20 +10,22 @@ namespace APIDirecionadores.Controllers
     public class KmlController : ControllerBase
     {
         private readonly IKmlFileService _kmlFileService;
+        private readonly IPlacermarkFilterService _placermarkFilterService;
         private readonly ILogger<KmlController> _logger;
 
-        public KmlController(IKmlFileService kmlFileService, ILogger<KmlController> logger)
+        public KmlController(IKmlFileService kmlFileService, IPlacermarkFilterService placermarkFilterService,ILogger<KmlController> logger)
         {
             _logger = logger;
             _kmlFileService = kmlFileService;
+            _placermarkFilterService = placermarkFilterService;
         }
 
-        [HttpPost]
+        [HttpPost("import")]
         public IActionResult OpenKmlFile(IFormFile kmlFile)
         {
             try
             {
-                var document = _kmlFileService.GetFile(kmlFile);
+                var document = _kmlFileService.OpenKmlFile(kmlFile);
                 _logger.LogInformation("Arquivo KML processado com sucesso.");
 
                 return Ok(document);
@@ -35,8 +38,8 @@ namespace APIDirecionadores.Controllers
             }
         }
 
-        [HttpPost("export/save")]
-        public IActionResult ExportAndSaveKml([FromQuery] PlacemarkFilter filter)
+        [HttpPost("export")]
+        public IActionResult ExportFilteredKmlFile([FromQuery] PlacemarkModel filter)
         {
             if (!ModelState.IsValid)
             {
@@ -45,14 +48,12 @@ namespace APIDirecionadores.Controllers
 
             try
             {
-                string filePath = Path.Combine(Directory.GetCurrentDirectory(), "exported-data.kml");
-                var message = _kmlFileService.ExportKmlFile(filter, filePath);
+                string filePath = Path.Combine("Exports", $"Filtered_{DateTime.Now:yyyyMMddHHmmss}.kml");
+                var filteredDocument = _placermarkFilterService.CreateFilteredKmlDocument(filter);
 
-                return Ok(new { Message = message, FilePath = filePath });
-            }
-            catch (InvalidOperationException ex)
-            {
-                return BadRequest(new { Error = ex.Message });
+                var resultMessage = _kmlFileService.SaveKmlFile(filteredDocument, filePath);
+
+                return Ok(new { Message = resultMessage, FilePath = filePath });
             }
             catch (Exception ex)
             {
@@ -60,9 +61,8 @@ namespace APIDirecionadores.Controllers
             }
         }
 
-
         [HttpGet("api/placemarks")]
-        public IActionResult GetDataJson([FromQuery] PlacemarkFilter filter)
+        public IActionResult GetDataJson([FromQuery] PlacemarkModel filter)
         {
             if (!ModelState.IsValid)
             {
@@ -71,57 +71,25 @@ namespace APIDirecionadores.Controllers
 
             try
             {
-                var Jsonlister = _kmlFileService.FilterPlacemarks(filter);
+                var Jsonlister = _placermarkFilterService.FilterPlacemarks(filter);
 
                 return Ok(Jsonlister);
 
             }       
             catch (Exception ex)
             {
-                return StatusCode(500, new { Error = ex.Message });
+                return StatusCode(400, new { Error = ex.Message });
             }
         }
 
 
         [HttpGet("filters")]
-        public IActionResult FilterPlacemarks([FromQuery] string cliente = null, [FromQuery] string situacao = null, [FromQuery] string bairro = null)
+        public IActionResult GetListFilter()
         {
             try
             {
-                var filterOptions = _kmlFileService.GetFilterOptions();
-                var validClientes = ((List<string>)filterOptions.GetType().GetProperty("Clientes").GetValue(filterOptions)) ?? new List<string>();
-                var validSituacoes = ((List<string>)filterOptions.GetType().GetProperty("Situacoes").GetValue(filterOptions)) ?? new List<string>();
-                var validBairros = ((List<string>)filterOptions.GetType().GetProperty("Bairros").GetValue(filterOptions)) ?? new List<string>();
-
-                if (!string.IsNullOrEmpty(cliente) && !validClientes.Contains(cliente, StringComparer.OrdinalIgnoreCase))
-                {
-                    return BadRequest(new { Error = "Cliente fornecido não está na lista de opções disponíveis." });
-                }
-
-                if (!string.IsNullOrEmpty(situacao) && !validSituacoes.Contains(situacao, StringComparer.OrdinalIgnoreCase))
-                {
-                    return BadRequest(new { Error = "Situação fornecida não está na lista de opções disponíveis." });
-                }
-
-                if (!string.IsNullOrEmpty(bairro) && !validBairros.Contains(bairro, StringComparer.OrdinalIgnoreCase))
-                {
-                    return BadRequest(new { Error = "Bairro fornecido não está na lista de opções disponíveis." });
-                }
-
-                var document = _kmlFileService.GetCachedDocument();
-                var placemarkData = _kmlFileService.ExtractPlacemarkData(document);
-
-                var filteredData = placemarkData.Where(p =>
-                    (string.IsNullOrEmpty(cliente) || p.ExtendedData.Any(d => d.Key.Equals("Cliente", StringComparison.OrdinalIgnoreCase) && d.Value.Equals(cliente, StringComparison.OrdinalIgnoreCase))) &&
-                    (string.IsNullOrEmpty(situacao) || p.ExtendedData.Any(d => d.Key.Equals("Situação", StringComparison.OrdinalIgnoreCase) && d.Value.Equals(situacao, StringComparison.OrdinalIgnoreCase))) &&
-                    (string.IsNullOrEmpty(bairro) || p.ExtendedData.Any(d => d.Key.Equals("Bairro", StringComparison.OrdinalIgnoreCase) && d.Value.Equals(bairro, StringComparison.OrdinalIgnoreCase)))
-                ).ToList();
-
-                return Ok(filteredData);
-            }
-            catch (InvalidOperationException ex)
-            {
-                return BadRequest(new { Error = ex.Message });
+                var filterOptions = _placermarkFilterService.GetListFilter();
+                return Ok(filterOptions);
             }
             catch (Exception ex)
             {

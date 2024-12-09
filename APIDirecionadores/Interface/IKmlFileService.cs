@@ -5,11 +5,10 @@ namespace APIDirecionadores.Interface
 {
     public interface IKmlFileService
     {
-        Document GetFile(IFormFile kmlFile);
+        Document OpenKmlFile(IFormFile kmlFile);
+        string SaveKmlFile(Document document, string filePath);
         Document GetCachedDocument();
-        string ExportKmlFile(PlacemarkFilter filter, string filePath);
-        List<ExtendedDataModel> FilterPlacemarks(PlacemarkFilter filter);
         List<ExtendedDataModel> ExtractPlacemarkData(Document document);
-        object GetFilterOptions();
+        ExtendedData CreateExtendedData(List<KeyValuePair<string, string>> extendedDataList);
     }
 }

@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace APIDirecionadores.Models
 {
-    public class PlacemarkFilter
+    public class PlacemarkModel
     {
         [FromQuery]
         public string? Cliente { get; set; }

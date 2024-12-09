@@ -10,13 +10,14 @@ namespace APIDirecionadores.Services
     public class KmlFileService : IKmlFileService
     {
         private readonly IMemoryCache _memoryCache;
+
         private const string CacheKey = "PlacemarkData";
 
         public KmlFileService(IMemoryCache memoryCache)
         {
             _memoryCache = memoryCache;
         }
-        public Document GetFile(IFormFile kmlFile)
+        public Document OpenKmlFile(IFormFile kmlFile)
         {
             if (kmlFile == null || kmlFile.Length == 0)
             {
@@ -45,24 +46,12 @@ namespace APIDirecionadores.Services
             }
         }
 
-        public string ExportKmlFile(PlacemarkFilter filter, string filePath)
-        {  
-            var filteredPlacemarks = FilterPlacemarks(filter);
-
-            var newDocument = new Document();
-
-            foreach (var placemark in filteredPlacemarks)
-            {
-                var newPlacemark = new Placemark
-                {
-                    Name = placemark.Name,    
-                    ExtendedData = CreateExtendedData(placemark.ExtendedData)
-                };
-
-                newDocument.AddFeature(newPlacemark);
-            }
-
-            KmlFile kml = KmlFile.Create(newDocument, false);
+        public string SaveKmlFile(Document document, string filePath)
+        {
+            if (document == null)
+                throw new ArgumentNullException(nameof(document), "O documento KML não pode ser nulo.");
+               
+            KmlFile kml = KmlFile.Create(document, false);
             using (var stream = File.Create(filePath))
             {
                 kml.Save(stream);
@@ -80,25 +69,6 @@ namespace APIDirecionadores.Services
 
             throw new InvalidOperationException("Nenhum arquivo KML foi carregado.");
         }
-
-        public List<ExtendedDataModel> FilterPlacemarks(PlacemarkFilter filter)
-        {
-            var document = GetCachedDocument();
-
-            var placemarks = ExtractPlacemarkData(document);
-
-            var filteredPlacemarks = placemarks.Where(p =>
-                (string.IsNullOrEmpty(filter.Cliente) || p.ExtendedData.Any(e => e.Key == "CLIENTE" && e.Value.Contains(filter.Cliente, StringComparison.OrdinalIgnoreCase))) &&
-                (string.IsNullOrEmpty(filter.Situacao) || p.ExtendedData.Any(e => e.Key == "SITUAÇÃO" && e.Value.Contains(filter.Situacao, StringComparison.OrdinalIgnoreCase))) &&
-                (string.IsNullOrEmpty(filter.Bairro) || p.ExtendedData.Any(e => e.Key == "BAIRRO" && e.Value.Contains(filter.Bairro, StringComparison.OrdinalIgnoreCase))) &&
-                (string.IsNullOrEmpty(filter.Referencia) || p.ExtendedData.Any(e => e.Key == "REFERENCIA" && e.Value.Contains(filter.Referencia, StringComparison.OrdinalIgnoreCase))) &&
-                (string.IsNullOrEmpty(filter.RuaOuCruzamento) || p.ExtendedData.Any(e => e.Key == "RUA" && e.Value.Contains(filter.RuaOuCruzamento, StringComparison.OrdinalIgnoreCase)) ||
-                 p.ExtendedData.Any(e => e.Key == "CRUZAMENTO" && e.Value.Contains(filter.RuaOuCruzamento, StringComparison.OrdinalIgnoreCase)))
-            ).ToList();
-
-            return filteredPlacemarks;
-        }
-
         public List<ExtendedDataModel> ExtractPlacemarkData(Document document)
         {
             var placemarks = document.Flatten().OfType<Placemark>();
@@ -119,49 +89,7 @@ namespace APIDirecionadores.Services
             }
             return placemarkDataList;
         }
-
-        public object GetFilterOptions()
-        {
-            try
-            {
-                var document = GetCachedDocument();
-                var placemarkData = ExtractPlacemarkData(document);
-
-                var clientes = placemarkData
-                    .SelectMany(p => p.ExtendedData)
-                    .Where(d => d.Key.Equals("Cliente", StringComparison.OrdinalIgnoreCase))
-                    .Select(d => d.Value)
-                    .Distinct()
-                    .ToList();
-
-                var situacoes = placemarkData
-                    .SelectMany(p => p.ExtendedData)
-                    .Where(d => d.Key.Equals("Situação", StringComparison.OrdinalIgnoreCase))
-                    .Select(d => d.Value)
-                    .Distinct()
-                    .ToList();
-
-                var bairros = placemarkData
-                    .SelectMany(p => p.ExtendedData)
-                    .Where(d => d.Key.Equals("Bairro", StringComparison.OrdinalIgnoreCase))
-                    .Select(d => d.Value)
-                    .Distinct()
-                    .ToList();
-
-                return new
-                {
-                    Clientes = clientes,
-                    Situacoes = situacoes,
-                    Bairros = bairros
-                };
-            }
-            catch (Exception ex)
-            {               
-                throw new Exception("Erro ao obter filtro.", ex);
-            }
-        }
-
-        private ExtendedData CreateExtendedData(List<KeyValuePair<string, string>> extendedDataList)
+        public ExtendedData CreateExtendedData(List<KeyValuePair<string, string>> extendedDataList)
         {
             var extendedData = new ExtendedData();
             foreach (var data in extendedDataList)
@@ -173,7 +101,7 @@ namespace APIDirecionadores.Services
                 });
             }
             return extendedData;
-        }
+        }        
     }
 }
 

@@ -1,0 +1,2836 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Ponto 2</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X AV. ANÍSIO AZEVEDO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>TREZE DE JULHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>23/05/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9313151, -37.0473072</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoRs5A48M-FC-uwoXlkudIzj4pq8K-dUI-BTaBTS1hwDrBSkdvmMDOJ7fSAIJJZSk8fSc05VdAint8bLye4mE9N6n--R6CGvCWAK1vD6wuilzyPf-9Q3nDgqxKzkSxlzCqbaEsHRGITvqCQ_q169veNlwKtFJDYRVjHElL4SOHSiqv7-z0UuW2JisJdiuQ97SJJQR50uyoD7MGaceznntiO554G0boLyvEHxQWf7TNYp4Nc99TO1TtpSXE?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 3</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X AV. ANÍSIO AZEVEDO </value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO CANAL</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>TREZE DE JULHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/02/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9309629, -37.0471339</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkr6EkmNR8t9wFsiHAzmScblApQQWCkyTe70T2YJT7Tuf24LtdCheoSckpl1L-pRO035Ck9uk94tqpgJJOMvhQtuhnfKY3GMk6hDs3Q-kY-p8oOCYYcXRldJxxAi0UwueZS7SXEp1ecopVNvDuMoeqTL-s3s16FY1DCmRl2dQwz1caVOjKcnrtp7QclcMBZox6vqsemwdrNS77V5-r1Zg-cj_nKU4U-BjBdD0QfwZYJJm9v4SUH4CXXWZKmnNw?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 4</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X AV. ANÍSIO AZEVEDO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>13 DE JULHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>23/05/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9312452, -37.0474007</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqmvoKm5GKJqEGmy0_DE7q2Xe8J1L5v5n7LYwI7-VEzw619hUaKk9AyKcnzGx-HFnKlV3GdrTfQTHwxEu_JmudQjVSw3cK89hG0WEXCsnpOnuvEtDH9zd_ITCq48102zQCCafb1JVQvB9rQrJoGyq4hosbqsbhmIx_jKCP5e7p19mcVx9k-JDmXfma4ntxham8ZppJZR41w3UV7WzoBWb9SRy48tSSV9Mt39FNPflBGieLxm5S78mYMkcE?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 9</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. MIN. GERALDO BARRETO SOBRAL X AV. JORNALISTA SANTOS SANTANA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>31/05/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9403981, -37.0584356</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkq8YZVRi0l3dyu4t_6b3iWF8YQM4vMSQQlA4ZAhBuEGHI-95texCnfU78KAcYQqQ0Olg057ciOoNa4zLfNw7L84Qy6EIyjxJ2tIhvy5fB627GuKCepidh8HkN1e963s_uBg9JczPUI2wjeYf9hFOc_BAt1f3fOn5uHofr5C3fPSaOKDbGIi0fwmda5ubLbl-egZwSHd-lsYmz-qZk_eoMBHVJtgUacsH55rICDIIgELs2kc1In8EVVipYM?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 19</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. MIN. GERALDO BARRETO SOBRAL </value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO EM FRENTE CASA DAS TINTAS</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>18/01/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9410134, -37.0595423</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqjLU37KKV6h-hEM0vVVs9dQK-nAivIMMCU0BhfXBROvl1w2HyriUA6E-vNF7UhVoZVv67WxBIC7cb4j00AqN4uH81yYkr8DkSMXYOLN03heIfWIQT26PfAt0Oi34V5r39fyArduK5-bT6vizI9tLVxYPxPuq32g51W-N67zyLV3CV6uVR_Ihq5O5pnJz83N5K1RQpz025fN6pioqvzbStroCL8KxnDRYQSeZOpYnkYBHKjlXrU_6DHbzA?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkphHvRnOYzpgA0W5eVXZep6aDKyC2ss3SdvROdE2IimHavikzt2GA2QbGM6KrZR_qpFxJevdu5Zw3M-jx7NyM4RGS4_nhA87OW_AicmpmqEpMx_unltCbt4af454rzlkEHj3a247P5DLDvf8fJZEx4c-0sItGMyTcleAhJvSZ1VjUxFc4g0DvyOYQkV6it9dTzAjh42hsjycA3FxiCadZikLua2uMSgufNHSWCyKIqqfJQW4CQvaSyFaFU?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 27</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. PEDRO VALADARES X AV. DEP. SÍLVIO TEIXEIRA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value />
+      </Data>
+      <Data name="BAIRRO">
+        <value>GRAGERU</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>03/02/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9400838, -37.058478</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkplYVKxRJomosxqta4F6OUgeJWZPLlZkWV_vbad4KxKGUxy3JP_oX-gka2ExAqSzFnNddxeb73nnfD2ygbw0s6g_fYuBRGw_HvqPimvngZ1mRM8EhxcXHPsF9HiLreejc66u3Ylw-vJPzBaRSddk-V3wUl7LfLuPi-6SUeV3CnP46guMqX5HypYWMblMoFMNeS6sayucxVHYg?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpshGjuF63Pa5z6f3FMwZmAGIKrlagDidpL-osBIMvqzWQTb-HxpXL6Eqmt232hUB5oG-IFQKRu0DdOEdPZyUc7wIZElVcF5xNSu_Iy81AQlgFE_CpyxvhOLaFBuWLKzwopy88ZHFVGt-Ti29KgpodS86vx7eTJoIOrLMoY0yacwcSjUwZn137m-fYMIB5dhnxwoRlj_AXJ?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 31</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. MIN. GERALDO BARRETO SOBRAL X AV. DEP. SÍLVIO TEIXEIRA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO BANESE</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>GRAGERU</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>31/05/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9401904, -37.0586147</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkp6yvGvuVbFa-1wBDH8Mb2FUH1HXWOiIfiJIUCjid_wskHShAOPm-ntv-mxtON9ivNEVwpMFP7TFp9rG1z-GEF8-RLOHKc435g-WhCi1H3gCo7i6hSqa4kdEsKNY-7WgyqNVt0FOC5aNJZ-E-QS6Sl9Ul37hB_KTZRsQvIb1aDxlO5-kTRdVN0A3y40kZDIQN7ZkLqTzr8yPLd_qwhpSKYP1ZDaikbqr_1AXkuaGRWlxMuCemgA54g-nGA?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqkqYsmMIqMKclusBjzIwBhjSnx8sbfsFYdrRHEIvv6Mmb9V2JQreOwdiRTpzJz6cHce_9qeIZqvRMdnINpPaaahrraUJW1CB1gAnk8fn5mQCsDT5qx8fXSpH8Vv1jLo_SShggoFiK1EgDR6zsOkrW0kaNrvAWNoMtTBlR5KnXj08ytb7bU--48dCnSriWEvAt9oiSNZRkkOZ2lSNRJ8qIHEvRMtOLghAZs6mBasU2VQeBOg1whQYxNGD8?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 47</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. AUGUSTO FRANCO X RUA SÃO CRISTÓVÃO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>ANTIGO TERM FERROVIÁRIO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SIQUEIRA CAMPOS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value />
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9102943, -37.0667004</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpH1i0HUsrynHWRfwpO3NDd1LZpQ9M-SwjtBz8YRQ7PyfaP6asUDX1W0D9R5WJ1qfvw2eEiF_A8TsGl54wANEkZpem79Ok5jKwpI6P0_2YppmtnpbrKnkjYBeb-VDxjPM0enK-BSjXNJ9g2xI-Vezk3UU7uU9w_pNhwP17aYYNXGH8OqNag0n0LbNm95cRtZYl-DIS5Ajj4?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 55</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SIMEÃO SOBRAL X AV. JOSÉ CONRADO DE ARAÚJO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA FASOUTO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>INDUSTRIAL</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/02/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9030721, -37.0527611</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrz9MaEIjXJpWoupBn2wvbq554WMHqmuV6pJuHnQF1vZ2n_cqheVaKQcDVSRuK0loTfuevdyhBi0mW14yziblJNeOHbj6BE_-WT_eacRir0lz0b9PoiC9j5Uq_C91RXaXduG4BDxYirvxqOWBxZ9ljfRSKcmFffMg3vuHgWTWAKZ_KlVIO9-iAy4bgcf31pcjFtXD6nvB8Wfi78OH1s7wzsVpoN4Jd1rj0XCL_-fARcg02kL_M4oxWUKXomCg?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 57</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SIMEÃO SOBRAL X AV. JOSÉ CONRADO DE ARAÚJO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value />
+      </Data>
+      <Data name="BAIRRO">
+        <value>INDUSTRIAL</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>17/06/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9030377, -37.0527249</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqO-8bezLBxKX4DqdMD14ZESez9cdE-MP8WjFXQH--unJnCreMJn1mGzDF7q-7LqOCnIEbD2ZpYHXm8sY7uyNskeyHv3Mke9eS75gZzIfs5_Bj8K-a-a1eOmS9zlF6QiQHTGLqZGJJeZh_2ufWf32Xeo8BWu6aNlW3HRhIAz0Lu8n9kkm4kGqqx4sIkiwbPhchh3AUBC0rs5UWqx4X6Wl02ueABCMRoYSw8nIi3CmchtvfEBmXG1n2N3tk?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 64</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. IVO DO PRADO X AV. AUGUSTO MAYNARD </value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>TREZE DE JULHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/08/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9246248, -37.0444021</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqBJJTDK6DTZGhkp-jZNZvX6AylQ-wyR1KJ9vsqhMNnm-9IKBIcPOMFbs0EG1n6A92CPBIO0p0efCjMMsR8usH5saLYsSJGHH9-0Ne4v77GiqRooczoOkNcL2hevmmzAtzi6JuBZ-mNJ3XnQJCyxNQ0uyf835VGbdwDQ0aUWj9m8ywJghDLpb_c6zdPmWkFRCqN1B9DBktYF4nEZ7jbB13qb0dRt_2iPoWjzT_FDp3CWuCy0SvTwOkgSzM?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkr3y3rmHqLhx_5W0UCYfiaw3m0e1DEHeufjaHrJ-FwxUc91JrU9izpIflIIpwaYa9_EcvwOkdVMDBDlb909JnkjtWm72RHTS8--L6qr-ikFw-bL-qhpGhsIq-2ENuOTQrOWpOhJx8wq76GSB6auM9zW4-3pY3XqRDENP0jUbAlnTr035G4IF6NpXaufsUHeSqh_9WpYd7-POHL1l3jWRtnxUGzcCxGp-1kb8IUvOmIDS5H2Kr8_4jpMegk?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 69</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X RUA DR. CELSO OLIVA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO EM FRENTE AO IATE CLUB</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>TREZE DE JULHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>23/05/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9264212, -37.0436262</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrxPW9pyJL2ypTiBciIHwg-UMu2KTvQxOZ9B2TAL1ZDWpYaUE1mVkgOp3Wh16uRkzNSfV9LShbvF-hLRm8EPZ2sXsGDmfdhllavlHHGbKejl_btxlB9eiWwVo0ijFw20Ik1pNqKfvyfuVEteNyULwbQIvDJE-hZL9zl4s04eqipM5uIXy5sZYAbgBh6OQwWkCczbSrROBL_?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpHLEu8dYahP59QMNrlXUeChXmSIq8CpLinzGat_5h6RTUlmJsjgQq-EcV7b-WILnGR3eir2w9Szw4GgncW8NrXF5yKK_Kg9cZQD36fPT_jGkD0JVnrcReqeXgufgs3Tp5JzucfHiYbxnDw9hAn96x6DRNkG6fgZHkPtu1jOeyvG86lQ13NmkS4a2x2-ziqzlnaDV6347ncNoKdGGDPqJHmDlnOQ8ELrTVHYThV-1sVyZkYB1KjNl4DPMM?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 98</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X AV. FRANCISCO PORTO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/04/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9355975, -37.0506077</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqpYu6l6SiNJDTbgiMkL0MI5RnO57mbKFXindjJos4Bp8sqrFfqqs5jxml9ZUW3VQBDLJKYDAv5IN3nVnF3KA7pCJamwL2KzEruay7FvGUFxB0rkqUMRthKEZS-wVvfII7itrxChZUhhAnF6DpcQ5lpw51I7FeKTtuqsBiLii4A0hbweMLxJdV6mtVKoB79TFDMQnNA8CvAhnmiNzHrCPjpDPwnh9-UhyQX5gwyAXCsoBSPkrmDN876xzA?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpXybqKf99UfOoVNHcLfUUkA75R21_XfyM7q2uXMRrg3r6EoxiXhAGawJIZ8OKqOZHbNGETOSJD0IPjUB8j9XAkJBiixB-weTTa8bRwQU1EwKksZO9-WiuyGPE-XWejandjhnapd_OVJMgQu753Wb7UZYX3fo4wKkj_WndwKLYKjc9XC7fwFVg5VKMcnxG52fL2y9FRO7tUmgAsCtLE6erbbZqaQTYA9ibkIgw8jxqAOBubfzQsimnDsg8?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 107</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X AV. MURILO DANTAS</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value />
+      </Data>
+      <Data name="BAIRRO">
+        <value>FAROLÂNDIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value />
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9706222, -37.053738</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrdJ-HG77gbhc_MW6i2Jc4cBsjQytirTzdkTFeKTw5Xvl3XVPL-bnEvY7Sf_FVqd_TM-vvzoTJPnXqTwpBhlmwWqmYv-Mj2Mzyo3xKil68AklaOdI5xK8Rg5KxZeR4BWnU1zFBL6f8lzh46PszIYpyLj11W48o5f_HL6gU39j_G46kVrc8JfVtDeAxUAdjsKkOESxRetSQ2rw?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 116</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. EMP. JOSÉ CARLOS DA SILVA X RUA MONTEIRO LOBATO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value />
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value />
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9831429, -37.0540679</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqSDSW5CZ4PiEjFYob43N14qJd6VIiNlHoKL8CDaDI5ztWcuhHujMyCPjJ_POqRZnTeIsv_2V47eLuRYSUS7mg2TLbai4fvasUo7XLY7txS0fe3GZeXp3OkUAqaPfxr54sYo0NNEvvGfEn2mXXS7GTsFjSkFi9a8qAk1j94HuCV1X8UIxCjb5v7IBqjBm5ZTB5kdrIuMtWZ?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 159</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. HERMES FONTES X AV. PADRE NESTOR SAMPAIO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>LUZIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>30/01/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9373862, -37.0632236</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpPtbvNsJw-F1aiUVYi6kVOJLMyMEfLagtzoS_hW1MhehOyMTqwD0U8xod97MjhIJBLeIKQXN9km1N8MZp22Mwoh7JbOPeO8NFZMX67QA6u-XUJc_wQd-ppCIYTTQChrJnVqM_H8yq54F8U9kEAAeuOdcv1sGV9frhcZNF1sYscRNkouI8XFElQOxGYo6lfVGA9VN39oWuZ?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpabvyI8TWCAqAM96j7JDQfLsAWItpuYG7CnIvcMiPfAKdtzROeDJZQcUKZ5nhbKFc_HigTyok-QvbXvVtrn_bTsC9navCOHtG_l7gKgrYjRHytQ1wKSAlhP7Hhh3MPObNXUhat1yzw0uxlLIWlBzgzvh_MH2Ql7p7xAaQelD3RaldE0N7Z87O8D47nYFfxNeHKD49rxJSUZtPzTz8PNzHyw8pIp_iHLrhBGJPH82MvzKD8vCeMGDlsINM?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpZQwxZ8-NdzC1zkXOu2uDtpoMyLhPTxbEleTFvONMsbY9DpvNelcLGlDQgs10OcKt7-RNNMaR5o87LYNwZDJuZTtxVhexFNG-E-ft6IC9XvLUgmuzappkgOR83vQBWXMm38V2_MyqCKikKk6UOf4-N4sB45zlmg7cFyIx5zqg8qHzmKwco34Ar1fdIdCLlpNgtumfnohHkVNxKnARZEypPgZqgJfIiacM5ZwfO-h0tm6CCkgOnoES7fKE?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrwtQjlVsaVAHIibsBc_knYagUZOQaFVw6MWMhV1cQhthKKseTyUL0RYmopvKmgk-gksT35tMJauy232VuSEa_oX5rSQsJaRvFk9uotHStOY6iFtiNLU_hbggegcxOXNGKVkg1BdlO8YDwSqi9Q5cYyCdd0mru5n2p8EC-v0u2WDoYTEfqUiMNmi9khkhq9WZA8QlTqQiX_JsfTS1n8QYvILekvIB_Z9Smy9VwnQW61LJhly5AjoRdAAPQ?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 209</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. COELHO E CAMPOS X AV. JOÃO RIBEIRO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO LOTAÇÃO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>03/02/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9061539, -37.052451</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpGkh-37ut3_BGjzrPjzajFHWGdHC_oAFshDT0kfPIVksZo0w0FkRuL2tJLCTteUPVY62sXJYsis30R_QrfFlNH2CTW4LEQ5Jcr25dj2HC_hlWfw4-LZzYtkKBVhcjJCc7HmhbJgeo3iGL5zhv9QKDH5UXRJRXgOPXABTOm6SsYuQV7dpNWJ_1nK1DxgLsxh174G8iGgaCG?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpWPRtwzE_8Pa_r--kDngB5npHsMEjEwxKDc_bnS5fFDaBqtUTDC-Ol5m_VTPkVBz6DCxUkt47tX6Glct395Q5kwpG1EqEjYSVPrIMFD-deSnnA0-im5opt8Glzejshq4a4mSGonWaJaC69C5hmNqPmJHV0e9e8V1_WuAXGvzqf_N1Q8v4q4xMTfx0ec8rDBiyMyx82-LqmGq4dsZZFJHQypLbqYqu-GSZAceQSCM0eTEnENQl0Z7LS47M?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 212</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. COELHO E CAMPOS X AV. JOÃO RIBEIRO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/07/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9060038, -37.0526567</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrDoAB4G-eyCnPukMdTgE21HvMQT8fET4QUrlnjpWjAsDqdeFiarqIqA1HY8kGD0Gt_glSQ2ZEvlybYRFqNdk2YdKuQZD58hXJ11D5ulXmKEFQhKVHdbnYC_QJTDRAg40tMwORDbqnW_t2HQBYHzcrmKJZ2qXZpKSIRZqKD0VEoG1VKJ-qwq57lbw91y46uzjLskCn13a2Y?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZko4cxo0Ioh7YapAS7xUFbrZIUTSez8MKXlDBpfiltH5GMvDBvaf2AE9W3JD0sxSD-Q9BaLtFjbhrhbzZ6A6j5xSnQGreMT7VMi7B712dTxN5W6qaurxSZ0gBF7bGvqEAHVIECdDvZcCy7qsBkWKqhJ6JDjXHDWkwzSQ-RnIdzDNTghNvz7a7Wz0zWF1_mZZt8nzEabt4T0ZcH4oF2KQ-q7qHzlBXAGURYB-akjwbXa4Hi7yj42a9NQ7WLc?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 213</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. COELHO E CAMPOS X AV. JOÃO RIBEIRO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>03/02/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9060921, -37.0525883</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrQfDxenQuWA6NfAEA1ijKRcDdO_7V-AXKzHg_Cpn7GkeV-BrI9UNjwub-3FP-CIklYzCtgIeHc_rzmcY7oggxh35MlEM3e19VBiandiF3l16hrioIVoB12tm8GUQX4n5opn-spX3AXxDtCGcuT0SoODEfF0NrXjRy1O7Nu369n9MxwT8ZgT2u0caYw2DdR3S2iEdyYB0Cl?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpA9_BKDTbzT5JKMeFw_Sx5-t8_FkRyBKzNoLzz2iwdRLYpFJxdzhfugo2mB8S9tFTwZ2LXCKkGi4N2O8rIRmFIa84RGT4VZVaqmnEvzkuLIVuQiUxcbTK8ZwWSJG_bZrEheokz5BfT1F3Y5DHKUsBZTDsu-zLlsmgMe3cruw8_-l91uRDUw1l3-np6_-b_oEbmQtxMI92MqvgdjgY3kYQDP9m1huu7hAk93Adfm1wKsPsk9BzmBYpJI7I?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 224</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO X RUA HUMBERTO PORTO DÓRIA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>GRAGERU</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>28/02/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9443283, -37.0694401</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpmIxu0ll1CekHaoXDRduKRXy5otWkBB09dtaIDN9fQylpXOPw2LM4CIsOMd1RGDs1Z7CR4s06zCrCVFOcG55j5ozhx2nv_xufksq8KREzmMoj_xDKjAMbmj7MVun0oanZl9WXafp_oJuVc-UM4aviQ9raS2Ug49jvsQxjYhs7pP1_QRBoMHWy3k7vyErfs-mSknCOrTnBc?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpas58GlKIWofnmK9YgE6PqYw9-AzOm-ExX5KQ1vGmTQATPwKc2wTMZO9glYacynDvEjctCwP3erAfiGbYBUznHfYYuCZwVvVJsKOIYtxb-4w6aQwc08dOCsByUQPk49KlDevt9nGWbkbywPLw2We28x_Ht4nRjCWbnt9gUIvb0BHa-CieKk7KQK0vpRLu7gqDdjnMP05y3QKgFAQgckf2gx-1lwgByVTF-oNIZzrJQNUL9arGMfihYxh8?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkr-IxfxzMm3-sOAmg_ic97fYxBT2swNfP7e-Oh5Em0pMt-Jjtl5p2nWN7ebdffr36j1vwHF_F0UDmfJTRHDR8ldp-jdq5ltVe3xX1O0V7iiqfu2_wn5IAHA65zAlsBRj3gjHV8XRll0WMN9N6ulmGR-yqdb58l-V-vNitZIaTyv1qPq9AXFHWlmLs1_lgg9LFfU6pG9djuR8W_3yoRaw3vrLTMn_jZkfDpQRls_ScuErRpFj-gPi5RvETQ?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 245</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>REAL CLASSIC HOTEL </value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/03/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9762522, -37.0399289</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkr_rzSRqmzRAeQnM4o7XWRNzzW6zgGzpgHduZyYyZpHaTBlTU2vGV8Qc9aB_OlWjlNzZq42t8YN-Nq6ipby_tchVdLp3D2a6_mdF-mJiZnofsLsrgshxiL8_wJDS57D7fs8SU3EQAjHNjcn244VLR4Bn-s_NQEm_YKn1IoqLtFSUVmAr3jkNgyaO-5o_l1JTDxRfglsCE4iygP_9fxCgfxnr37LXVwSsF53t3sEN9WleI5pIt3Mj0RMp6_xjUXxMbY96s7N?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 265</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. DELMIRO GOUVEIA X RUA NELY CORREIA DE ANDRADE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA SECRETARIA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>COROA DO MEIO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>19/01/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9478216, -37.0455933</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkomLSPcm4Pd9hjmeBqoIkH0_TgOTKx9IhvPyp6HH0qXTGv3dTRO8ic4nubcBDlyTd_9WITzh9cb_KvE-U-io6AI_uX_ZSteAz9uJUGhcv0y6wEyKHoYrOId1KF9hdqOsa84puysC_0nKoOK72B1YDEMNj9sBcMXWf3pEPd0AAI853c7t8IVa5eixEY-QG1fictCFtrlj_L3ln-8RDIf-ZG5JLq8yXePlqQ0tfmuaAhVo0s_PQcGSlEne3LinQ?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpd7kMMYyAp8F1a8pJ7iksst0gCFFiPVa83fIsu3nu_OayCusDmDlmbb7NGBst0Kz_LRjIcAlCAB7Pw35x6HjreghSJ0jeB2Lu2PPhsX_fsTkss_naiwOyOFHgA7srpqiFHwo9vrhYiTNkbuFurkF530ao5s2_Jqd5Tx4OkusaJW-OfkXKPPLiP2BfppCyBhYJReeMeVjBfTeIl3iKOrEq3Hv4FlkIzJe2qCW0VBfdXZ0QZ3qbNd7mOb-o?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpJYFvKOOMPNiXWii-WJSgxwL1R7Dy763weWqwk4xeoEbfMDuoQVGC4WlYBHN9-qNb2Hn6gB2_VMpSss3hSwCFOES23tz7o5MT8rgYLMG4XSlmOCDTlakM34KLdqWGIxUBSNtfKi1j4MLPUVIQqFuAXmdJi_ydBcjfEvHuD4juA3dhWdkfx7hokmROlHrpDeRyRpopDLKtxvyxsWDVWNXCNxygev3AbGSYvR9EE_HLm5JjtHZqx_xWmVM0?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrk0RZjzIQt2qBmz_xDd_6joK1Sg6aEt9YyyecF7D-yipyO8VrQCTY8LR5NI28ZXcxIAGfxgRXyWMIquauSJlIa4YOLCmcggvVFjHc88D_5OsEzJ1_mszNjPai9qc21nR7-t-CTzGwP8JbGs2jiW5XOd_wgWacjmI2bZsD2mtqWfBqjGxcnwCAeDxVKz_4GaEU7wXWfa4aVwzJXfaASYcHO7MXlvOaovRM0pUiPVGcnsFIGpLy9JVa0Huk?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 284</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. AUGUSTO MAYNARD X RUA GUILHERMINO REZENDE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA IGREJA SÃO JOSÉ</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SÃO JOSÉ</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>30/01/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9241376, -37.0516267</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpNAgKvY_NgvXo75q-s98FkWkRNp4vTNVdV2pkMfr8q3S4soLtoW8UJZjAS7itTzzVWxHDAogtiD14mWVo2q26uQOy98AKPgfuZXriY8ha-geyxC9ITUIuZBOD0CZAUl3Xqh9-jD04F-_c8iubdy3vHRZgQV8MnsseFIPJIDIv4zJpO8c5UKxzRfY6AGAVuWrc5yENONTOum1eK1TMtu5RtFrHIgXqQIv30QgLvirW0Uhcte4p5myN_RB0?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqMVbYMfvcoOYrXfAx7W09GPBjxdI9Uby3nx3oDkM9LmhQljaATNFTvxoXQo0IZgRE2h-tJ2-OJwZaTKA4FXqLRTvXAU5idk4dfCf1iZdo6ZpNRmKWOj4NXTMzQTMK9YcPVbjX-8A3S2EFpl6-v8uQ-0m_BeTSHdkAQapmhqvslfFksBnoqqhDaxN6M-T3PiYFLEWUrJ1euPrkQ7W0-6nfNcqAvhGQ5QQeDqIyCp0Vl7FJwmpdiLpSErNQ?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 289</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>RUA ITABAIANA X RUA RIACHUELO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA DO ARQUI</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SÃO JOSÉ</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/08/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.920853, -37.0503046</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrJb-XEaq40xwvj3tCPs1jtSW9oQ8ivQ_ySj6nBrJEGDeWi_RFRhi6wGFJb-L5DdoVAynsS_JItvcbPEqxSWJ5cLiT8Ts_eixaJh57z51s8o-taQGVBhyFGN34rT8izbjzl55ca_1dz2aLGVLQeSHAo2BI3AvP1MnQBJQYncHcEwu20wBHYLVu1omsICvBwud0dvb7hlT5UBU7p3TaCdHmBieOUVTK3-vCfpoxzew9biI_8iAPSTZ9RD-s?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpR8khhi_hkJkUgKAX-UjE1T24_Zu9L5IPHftn3xHY96_wUFzB0qTXLCf3WW4j-tLpo80Z2q_KHmWIitZ4fUaO9650VukSJ4DHrfpvvsvk8QfLt6r4syfu8r9ANtkPQIawNzc1Yaih9CN0tLFJYZBP5NuYACei8By31jDzVkvtW8bC2QN8z3E-yc3HHrbjW5idyIdpu27aLULt_ZE9_-b_YZf69_v1Mx7WO1kg7vlLuJMgXJZhrV3KN_Mc?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrNSQ0bHLiNxHJYdxWeWpeniL0E3BfgVQ_s6P_wVkmsazA9Gh-N9lXlmfFJYPrn450WVP20yrcBF4M3tJ5pfOlEJ8iCBqdgsQGU5qkZLS_uomXFU0GLurDRo_3I09pWVo6bF_qBC_XF75gfQZIhxneBaRO4da_MjavYE8-rx7qvMI21ZOSlbyo143f4KP2-Xlln8L37lcbJ5al-XiQKInvSNvGGfFsNMBj0OJszGh1EwchFFoAgbjXJGzo?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkp0Yph1nBWJW-A94mQ5W7Ny5I7jQsXKGXixCKoraHof9Qx18_Em6W4tKbkDpud1G0rj2ss3SeZkVdb0P3RjIDoo0cN0U0yo3jGaizsqAV0c-YZoeeuR3nHSahBg4TYID6cwLg-tbNFM3EMijfnFX395dbzvTOa8nVitv8ZDKm1vuS2X-xfLQ287n63cbkl_oH6Dv7qL1C65JoZ8ibIxdmfzPYvQfjZd4I-ABbEkwg-F29T393E0ESkyJ8w?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqjhGL4it6Y1k83nR8aRuFVqyXOxpVwkkscmvnIF2Dd13IdyEwfj6_8Yzq3UOiKZPIShC6OeAXBRiwJaUBVs_xoiNUzp5RBUtZdsQDfuPhyhUXT_VRLKLAsz7-45A1UjS7Q71Zs0ir4eMnR1SuDoxMPjBmdsNlmdrLUSwk4y7YVb2YyavSiRCYPbvup4TEEEiBZSSLfCLX3x377ZNWj-ortkLl0-E9iAug22nQ9kZKQ324x5ve--W6KYWM?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 309</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. GENERAL EUCLIDES FIGUEIREDO X AV. MARANHÃO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SANTOS DUMONT</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/09/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9026511, -37.089235</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkomt3jEAXloJG6Fzfhge8gnClrph4W7LDW1o1TVm6Kmth3eUpwtXM_CuJrW4WP70foy-YP_2PMZFnhXemhpmL43AFR0nyn-Y6OZLz74bkd9SDAB1JPtza2TwhbH56dPOtpbT_BKQyHwuHnrcMTylvcTntPHPQyqLeGyKmGNRfJfHSv9JEf-BRJrPhIlXPzgJTDySXJA975_T87ysEJpJm48QadA9cLeyZ_hAm8syl7B9bLnN52JKwuWah8?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoDLQOvJDBOCUcwk2DcBJFXdJDMXQ11EeTn3cF_JHapvHBwrFNu4NW7eNQ32HeL8YCdfTDgV1lYLZH1_pUZGdwcRK586poG5ceb7o1C2XPZpb9kQ2TKLQgpZkxdFn6Rom8WJKMSFU1FwMqVk8nh9ziYKFBIxDm9Op-dcopqw065oZZObeHIXUMrjWgBx2p5MNvfpQkKzquoD7J6rGLWQ2TII_yij7Ma4z6P8USNVOFHRMl7T4hKLfFOZLg?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 312</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. GENERAL EUCLIDES FIGUEIREDO X AV. MARANHÃO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SANTOS DUMONT</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/03/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9029027, -37.0892744</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrB1OHPlrw4z_5mD36ntTJ4-A5WJXabzDzZ34TYFil29kv5Sqbuyv0Ffi3sMWSr0ilFKb-xkW0R7ptngBZKiQqPc4oe0p-PW_LhMS-zFVlvHcX3WUm2-vvKigiqKaD6h7qgrR8vbwNi4jTGWAo1gVTL8iqnIUaghBs85xx4VxEW411meMU1AOMyyavF0dnnhrE7t5fVUKpc3OOpT2koo2okViUO0osvs8QQ8TRqv0LzJn9UpbfZffXamGI?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 317</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. COELHO E CAMPOS X AV. GENTIL TAVARES</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>FRENTE AO PADEIRINHO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/03/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9067868, -37.0609997</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkowg44x9KN8f_jtc9QYFBozN_KpdHzBITM8ZoAHVPUJez8d88gAb59bDg1nqqLauMmMF06_9i1NRVVuX2LGAy9mGBJdW4DFSpOMZd5FSLMNGJwwvAnMl8CPyNr8TNovTP8W0Ce4iDa2yLHk2UseJIfGYK3r_IV1PSi4JDrM2wkQ1A6rfXFNq7OflkOFgc9NXZoKB6KY9sp2wfOtoPzyqoMF_j62TRkbkfokOY5fc1pGoG9fPG7vXhd7XHA?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 319</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. AUGUSTO FRANCO X AV. DES. MAYNARD</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA REAL MULTIMARCAS</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CIRURGIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/04/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.918636, -37.0692458</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkojhA7i2C9rTIvefjb0M3fedYP1YVmmjteigD-l-T0e-x_V1eAgLgtxBrcA41EWY019waxSuE6idrOnlM88mieziF5O0kBy-m_V1-UG2K1ppkCHp1hEK6iSG4IsXxGhowBKNJApKlzkVTLnXIfX1_7JSumdu6gMjJ3-axlAJEoemp3CtvyPRsM7sP4cKz8fwtGsPZWG43a26siAkU7oZNV9xwXAcNudYzD2lIq-yJ402OmmyjTl8xleM9o?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkp5wAbhAimez3Ek2AC7Wa7-bss5m6AckZiLTyAn7SJPJVHksiyV1HYDLUl3JK0FvhGsqemGLLxJhCBeVTLzFbxvhOHiQNVloC7Sd-r7JY_H21Mx9bXkfMC_f59QW1do-x0b9dphcWHDBncWCWrhMaeUN8kYYJoCD1qBeMSJiORBXbit7znfMOhc1sAoKnPh_Wx_P9fQYN3p_kISjMxakDdYlBTjXd3zg5JFuLKYjUcGxYyPqi_WSlgSZjM?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 320</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X AV. DELMIRO GOUVEIA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/04/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9404932, -37.0505214</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkozF95OUi-8vS5Ckh-PRZfWbXy1h0e8cIfKmm1puk_CSZr5cZvtPzaIRvhJoBe9eHqgXGkDHzEl7cDBLsTcLYj6YahsIT2R6bioRX-d0xGQCUc49gaE0i5lUt9uCFAr-hbBk6UDEGUY6gjtYQH5nSNWOfk2at-t_CebtIp2GlV8Wz_2ttlkiRRAuG9A9EaF2GWSaUcLZC5tINxNxzvansK6USYPBWW9dL6oS7y3diRYtUZbfogJJo_YJP4?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 322</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. PRES. TANCREDO NEVES X AV. JOSÉ OLINO LIMA NETO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JABOTIANA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/08/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9234739, -37.0809803</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpEKy7AJhzAYqRHi6mlNVdnL7J7xxpR_hmhSImrk-_WAd_Q-z0AqrgPxsfI5erja0xaXeqBQ4bqdfdsu9_0r1ljKd2aXLMMb7TL_UfQPW_vYk7UibqT6A2JIYVagwMNJQGEHQh44DGN0U_3dQrRPnmbcYGbsWLhYkV2JCHt_t2t6xu6aY_af4u5mUuNVMABuwaMkCDz5Qs5i98JjkxR9zHdqeNogsUOJdt4DyfTRyAoaLkoQ9DxS-7mrQA?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoK0-HcsJvcSJaysNT-56RKNFgNwNS0UbFxE4LNg8KheLAjg3SrknC5ZD3Tup4xSMpR9P5TuigxeKMCHTw7fBsoIzRYtuEX1Yo9hx0tkFaMJVFpbWamG7B16EafJ_qXZHnQ3ibsqdzM32BGyYEMmU6O-xyMYQh98fqgx-IGurf9Yh6H0OnivC56fkuJk0bXlB6FadPfRrV1zsT2SgqI5-OGrH-CCl-g3JGOrli09HH8TkLjysYGB2OVftw?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpWZFT8tos5tTo8-ZYkCmrsJtTeqzsR89OhSXLlWMx56XGIfNYeHLQB0_0ll7xqPgqKHCpaHhqhqgjhpTljHNIIUaPpXSZ4ytjRd6LBGfItXmMyJ0uOoR2AznN-_Y-0M9z9ABWWPz-k1rM86r5XNxf5RiRP9kPx4jWqJsTD993uhMoOXuTxGkReRTxGqMgJqsgVfQP8lSgqArsjIySIKFHUL7YEyQn8BYjyyhKbErUQL9vjDXFfwzIubo8?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 328</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. AUGUSTO FRANCO X AV. POETA JOSÉ SAMPAIO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value />
+      </Data>
+      <Data name="BAIRRO">
+        <value>PONTO NOVO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value />
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9265139, -37.0724574</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrid3xOVy0WO5Ot0jRZlyCWL6N77R7oSX6a2-UJ_7UPb59oej2XVCLEsmQk_uEjFBlv-5A9DWkXylEf-_LsKM5YnTGFdOlbbuA1s0J16ZdcX9JJevO3aI5oOc2k6x212ZCDnUXvaBjVtpKYwSS6ap3xC2_Z1Mtj7JkuTssQCMr1xPh2tI696ufOZCVUuwqr15Gh8HCxG1Gy9YbZysj74bqXeSIpY6YfKwwmM6B-l17FpfwHHUHLhx_fNqo?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 336</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. JORN. SANTOS SANTANA X AV. VER. LUCILO DA COSTA PINTO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO BK</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/04/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9421114, -37.0569447</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoR2Al3oMMbrOpTAHjdnzk8iC_2gokxhIGx-aisnbXdImQ2b4wwVo_84D2D61tuwn7K1UlkMBdqqfODN7v8_UBVlXUwDEj3fopOytQTaURLnlHAEagj0o7-EEtma_KSSNfJYB7rkUDFFJ-1MsTfAfMp7bYiqmBKXCP7U0VQXCCZhzXmddVRNdWGPdVl0W9QGeu7w1XZgF93669viBDQesnQOGOGveoxvOgZrUSIHIIi1svlkKBkqjnwU8M?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 343</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. MELÍCIO MACHADO X AV. SEN JÚLIO CÉSAR LEITE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value />
+      </Data>
+      <Data name="BAIRRO">
+        <value>AEROPORTO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/04/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.986638, -37.0589668</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZko1ox0oOgB7XSgHvf3TJrPC2HXMmGRS6o7O9gRwUHTKxQseqydBkbG_gGJS9jT24mzq9pFytqBOZIAPXSUr0OziQExLkDIPUaquh71n0yR_AHWG6Jko45zVNUKFWYDWnyJfB9TEJ3l6l53OX_XjtWLkv4YLmG66v3j-jkM1Srmtu-PnPsalzMwzJA6s-f3m4PwZ2hQBdZpeEqEGv3ItJvPMD_cwlLtxgUqEmlu2SgILIMdgYGORWyBpm3w?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 356</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. AUGUSTO FRANCO X AV. AUGUSTO MAYNARD</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SIQUEIRA CAMPOS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/04/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9188078, -37.0695389</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrFeM1Ot7gBOLBu5wUyxdHrB0zY9IDrr-GJpUK7DOvpwwottLZogQjiPp2yYU7SSb9OnnGqSeePkYR8AYMcHZDSUo8GkFk6G2kXgtH8GAcduSPwTEBO4g8nq96ZOUBWxiuhazvath4-3zJBXLosM4lnIqVh8DqV3v2mKK6nCRqLHGM8Xpm-Qo6MjTsKxSDU5xfDi8ypqMDFpNO4AaDg6F4Msh5XBu7m93lbZCIoQ24zc9bo2dT3JZpIW2c?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrdozmr8SqUFgfDuOo-BlitJ_NDENV89_elWyzJBWVWdvQWp9E9WGgzvO6St8RqVVLK515oEBd8niuSZ9OU28hXnL6yRAHhNnUOk5_kmXYt3Ls9z2jry87JdXvxoxfkPxc1mmjLkglJscSwcPmBwpwfN4zvbwZs3c4kqlojeEx86Nm02skLcWnlNzpN40JuX8F3PxPVmmVE-8IDVPUPZxAYELdC6LOkMoF8BHMx8I-h9QQ17eHA_4MwVc4?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 359</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BARÃO DE MARUIM X RUA ITABAIANA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA PAGUE MENOS</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SÃO JOSÉ</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/04/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9184737, -37.0502868</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkp-c6xxziTC4PXuZrtsv58lhHr1i-Jo5RtzoKO6vC8smbmM8uE9gv9LmOhY19Cw29YzRPD9gXnIkLwRrllijedvk5etxcs5ScxhNnTYMdCZh3ypoBicEdSH1-stm8Xy1r1sDuc-RGSRGHSnP4_gfK2IvQXr8HIKmWzmXbV8PLwHOYut-5d_tlP1YXob-648BZxGYnBrkHAuNGDGnncTeLighiY6AntN3ilrsoQNp7pvRUcsPREFxrfwzlg?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpbRcWj-ltI-H1HA-vxtG20vN6OKW0KI7DQn1fN3CxqnE42HrGePARaXud3xu1rnHtC-Xz2jeW7TVShX6w84kVX_5mCGGCmWN-JiYNRtE-lmm-aqty-dr8qOMzjRKGylJJ2xxVwaGQDvnDxIGCTUoaT-Fx_9EFDLnmkIDi2eNacJIgsAvLPU5HC6_9O-Ur7jntO2uL36uTAQuCicm3a0gKQZhfys3_HgWLTMnP4wA1eoHH4NOQ0H__5Jlw?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 366</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. JORN. SANTOS SANATANA X AV. OVIÊDO TEIXEIRA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/04/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9426692, -37.0562285</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrMYTp0pHHhUR0BicGrahAcmR45vhGu7cqYPS6HADiDzkSto0JmieQjxVH6Q2KMDOZ0DF4wTRUI7Vt0iUARJ6-DiSVc6BT-ZAEQ0yBVKm2rIMHhKf6EECe6KcwKAQXASP5oQ9uYmz9Xo4rRRPaYyKWfFr7KTd5-uEZDFIWeC3Mwo5qBt_8WR7vm3p1Yc8u6_B3cnFlplDLuKTbRimuMpWcRPeuZeyCJzIO0vR6EZN8omb0Veray1ygpOQs?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqlfQg3qpDYb1XhKpg64jtxkOvjwmYBp6eWNK-JkhEun3Ybpp6zemkAnLYtmxWmEa_Up8gFILl75BXaxiEpDllgVfvgyNGdAtWFFMXTSJfCxkWLLqNVIDZiaRi2-0azolakQ7RTE76ndZM8VJnn3XWkwVbt7RAi3TRuKHpeJZadQB06Kyo53RL5gHWwUqB1bTxRS7b9A4Fei9yODG1LWFuvYLw2f4O4cFneDuHzTZRsrEnMeAkJdh_1ogM?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 367</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. JORN. SANTOS SANTANA X AV. OVIÊDO TEIXEIRA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/04/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9427647, -37.0563889</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpFbQQ91aHWxW2P0YysGrOYptUT2QaJvbZrNnVr41LrELEGFhc78Wml1U7Pv-EHT6_dm3ynnKHm4aFxMJoMSe5CBEvgfExtpJrO8rbjtNUJ6ghYfOx2S0_OX2FxdW08CdOnfN2nV6YrHuzTJa01-1RRIu7JCsDBQmEkH9XKLVdn4vo1AeSDRA9UPqPO98Umgr2wEMxKXSW-thTYrB-oL8LwUp88e2QqUCfhXyxbfwPe4vUE8BHRvkosioo?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqCui9q9rNtn0tcBdaLDh2blXuh2g_i4v3gbaxHU6uL8Baew5DiKKiUSO7f4GQV8pfm5S1SWS7NCGSqHx72Ldtuc0Vbd4XjiXEDR2dOgTMGSZaXcRcMzpClNp3EdNONAbzuoCdG11nqQjoea3Ilo4rxukGUhQaZD5fZ62ApNsv88gSi8nFVrOURAw6r4PUZ-jKQohWKdHsol0vbN-73wu8AJtarGHWjWvKc0CdbMrHUerxhNvVH9BvPXWs?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 369</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BARÃO DE MARUIM X AV. PEDRO CALAZANS</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>PRAÇA DA BANDEIRA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/04/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9184693, -37.0573158</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqSD9Aa3aI8gPosgHlo-mLyMYdawPhTLbVwUoVehaCZR5fDeRjXQmyspsUPf15FqQ1xXveY9JrjVGba_vU8tkhlnIL_cqk4Ch8P7KylAALPAzfVexaUa2ATk0LMZqYOB0mV1YAE_1C20zR64KNgMMXySSSYS1qMEJFTekXZhYbFbVXlJaTefsh43elzx4dsAKidlfgSY1-QsxfIkfeUCOW96Q6V6Oii010dVn5LU-gSVSlFbpbw7mq95yQ?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 391</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. GONÇALO ROLLEMBERG LEITE X RUA CLARA ALMEIDA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SUISSA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>31/05/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.928367, -37.0674207</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrkq7KoR4LKjdWDJRGFka-oRhfUyrrjYcvdO3ZILM_Lw6L9D2DVHPKQBnx9ofdnO4CKkeBGauMovUgW4B4OMIE63ajwpX12Kb9drqz2qwbsNPxVinTLB9idIsvfscDfP_O_BvRg4zblIakoDNf3vqJqCWqVfER7Lg1k8MyNSGkcp_5OnnneAGFEyYJVuuQVWZPw58ZDckqpuxCG7xS4CHMwb7zk1bjOEIIF6wyW2Jf1DRA-tQiwXDcy4nM?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoRsnBPnYGyl-IHp8PhI9d3f5cMNceY2aeTJPkYXyIRFvgj4p2zw7r6LGY1tCRXlS8Ui3gg-ybGU6SmVgEvamwzOWJ3UrCP32m0FWZBpCjv8xayAcdYrcYOviHed-tEeuZcdMGPT6b8upnfEUBh2YhYDPymcDmeLWMjzCBvx7knqWXOe75EwxZKkmVFgop9TdaAjJyeE05PWjYSZZpiOkWTtiswvIWWCwiKhd1UXfE2b4xd4JU9feXVaPM?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 394</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. PRES. TANCREDO NEVES </value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO EM FRENTE A HAVAN</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CAPUCHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/05/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9132972, -37.0895229</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrqZwcCDLwaJhnRc5iD16XjjHVS6Z0tKckexoFupLVyKRL5VSgANve3YR9X1klaVwOKDxaHFHPhe4l8qE8Ypl53pqP6lhJcxVFmfbhN7L4117GIHIP9HLqs68Izl5FgIH912qZ3QYpKGqZcADDFJAWENjMO48tJ90s-WUI4t6vUh4k3OuYMLub4R6NSlkEs4_bCM1JKj5mmc8kACYTy1HJsWYCHo82X_rPigYyac4DVGAewV-2UD85nrKA?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqG3UsS5VDXec25AngRky8vZZ7W3XPUSVf4J-h2WxaeeI0i7e4ltOC06N7MjCFd-yLLJ1_f4nEbi9CO5u0G6vcrqFahjJ2UDkpyvCSoq69a7VzTevH1rhBLpWYQeiil1Mslmiq_nvzQSUAH8pzwXtbs3X2ey5BA5CKJ5xhiAdzK6DWlLkauGHHgd05Vp72iVrJSBTvO3dl4IdaZbSbKDaJ3On5DXLUKLoqATMwl2pq_JjXHuQpd1g7gcAA?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoZJOI9RbJRd9PxhC--68WScxwHGYQPsnTPe4a-9-JfsvWB5O59Sdv5__ijeckyxAR0ev8Ivo47uggGLGXLea15YAp-qQZd_7Sf5tiTDeVBcUeaTFvx8aI5sINq54EGWR_Dm4o2QyJMfc3z2dL3BhPKFnYXzqFYGeWFjtfFgts248RAYUcdjS5E_WjLDSsVXPPA86G5g38muwP-bcHExFxX8YrkSwQhBeNKWqr69djpLo4UyJ3ayIgsF8g?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 399</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. PRES. TANCREDO NEVES</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO EM FRENTE RODOVIÁRIA NOVA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CAPUCHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/07/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9175371, -37.0862268</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkr0wOCIdm7F9jL92DlXwJXv1A48OcnPmBhCGVEdtx81SX1BkT2gdQFJG08ckV205MEnpPPgO-4z85jXMO8r4M73E5NxnAeIZDAzFJtIcO22pg_msyWoCUW0u6q7dr7C5nDf2aG_qtV8NdbCiWYZ7erTIPA_31KSBI6iYpulrET6eHfCRPKdjyfSWDDeOS6WXVQvW0A5Q_I_nL5w5up15b5TxBHkf15U8VDV_Iy2QrlpRpYVtIzeSFGw650?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkq8IRTzNzHVynbm4C2eAM006pj2jzD0vVcndVKtycbev3Qjp5T6DpB5lUIziRKSTCA7OzODbwEBGMdjU4cJn0AI7IVk94O-79wdhcXlhYMxB8Hs0ImU20n70yA46UaUGgFfL9rDyCZUvv9T2he7fycdaWbgtFTlhF00B6Jx4TiquHVeLrEMw9-vT6Gtf1naCNVJbpEzKKyOTUV0Zjk7G-_hrIok2IIeqhw3WjliSaFL2llNzUf_nmRggNs?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 401</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>RUA SANTA CATARINA X RUA VER. JOÃO CLARO </value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>PRAÇA SIQUEIRA CAMPOS</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SIQUEIRA CAMPOS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/01/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9097238, -37.0712613</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqjDkqGufTqflXhgErDagHCOMiFILwOhhJCxwrnfwQgwehVreB74luOESL5XPmEsa0wjZyfP8JqQ89mYI7amky3FqyWqrKpyQOKutx48HnagkNIXqe5H_Gs4xhbmIvuVSWu81PBHXAUmaQhUmvtAIfxSmJA9iivlDN-UoR0_7tpWLK9aMHoBCGjtEJMX9DMzb4VcG-RKl5i336rjnhsovVdD_DciIiQ-LxKJcKDHYq6YMfsMhFw1X1rc3I?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 411</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. PROF. ACRÍSIO CRUZ X RUA ANANIAS AZEVEDO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SALGADO FILHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ R.</value>
+      </Data>
+      <Data name="DATA">
+        <value>27/08/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9324095, -37.0534098</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkr-exaOTPM5xC9ZfngJEXIkC0ZPiWTXbENqkDvbdXZcGHea2O9PBTaBdajdYdSpaEY0Ho5c6BRUyx2nRq1Dr3m0xrDDjZIga5KtUi6Km1KKJLVz26N2GFBaoBTldr2z-MFLL9iq-yuun6RzjpEcmTq-DkeStxIsLGQfPpoLAqqOulZTkejmmRjDh31lTi7VhI91qCPombZr2PjT4nh8W6OfpPLCrdufhRF3qjViYAyBDRB19_NrCcxyB68?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoTg-3Bs1tb53mhoMWOLjQDY5hJPX_-LlRCty_h31-IqnLlRyPXcAoZ4NJn6VodwSxUlW4gNsY6EceXGoqpT2CY2srDU3OU9vggxiKqDorjmIZ7NYDg2wodUYWG_N0iTWA4BGaS2Ok_0dnytVeM8IYazsfpXeZ1RXdg_OpqlJouC3sMbn9WhQdZNnegKSneD4FEX5USot5GXr9oLecrLgOcNRWtb1zcaxVyjonPEhPOG521L60bVsIWLYc?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 413</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. DR. JOSÉ DA SILVA RIBEIRO FILHO X RUA ACRE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>AMÉRICA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ R.</value>
+      </Data>
+      <Data name="DATA">
+        <value>30/04/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9183937, -37.0747241</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoNTaBvyNpCgi_lExKC_XO53-cyF6eWk1biiDu6B5bGQZYtZ0wwIAxeJZxa4HfWYlEm1qrEaSHW2pT4G4SFj242NxxoTAjvqJ8nCqlOS8iV0csKGxK4MN4DqjQ8a87QAe1U21S6IFLXv1hEgahIPX8Bh4fC896JgBwJiMCAPUk-B6U9hwifjXkcYE9F-Asj3RpcpP4RCMmctPlleyQu_YHm3p9VNVwhKf3YuK0py1uyvcCa8aYZ_jw8S2s?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrLl6HUCPG_p5d5B2L9Ti_CMkzpuU9d7mKg5tczkaD4MK0zLrpx8IcpwlTGbv9t_11XWagamHgpoZEAYkBVmbYGkfj4ZbcBsvprU5OC24F_HJZS3_OVPuAEyx33gm209e3_iFxuzcYzo7yQBzZMLG3QDkQOqS8g8RaPSMdLtLmrO-byUe1CLS0ViquySxe1U6XEEp9piIGv-wQZa_IPKP-O8IGy87t_vf9sSUQXqiV87WN-vXMzTPrNwa0?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 427</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>ANTES DO SESC</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>23/05/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9834, -37.0449994</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqVRB8VqHhb8iOPz1PufdzptBqjTFOeas88OZbBhHsIDs9oXaBGjjkP3feUg_HwCGR67-yMS_9lpA4sD_8o35l8cotBwvzByspnUT3jTUyedCejT32WcWRgzQGT4g3xhcTnNGWGi_urmkBGH0qA8YE0q1Av61VQu5MRJvWNRY7AROUXNoyBufz-3w2DJTs-o2p38iyr0VuDON-rZnEfFSeIRbQfRE66E3A_zZWl1iH5q6Q4V-VluLNq-8Y?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 438</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X AV. DELMIRO GOUVEIA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO SENTIDO CENTRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/02/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9404505, -37.0504334</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZko3U7zJ_4vpC3BnP1N2wv4-Hmlz4KnEdc94jqdfGdtzUVWK2EGc38OQr4WXi4egWNQKiwBMfInNienUG4iL5_TTKQgEz2TuIiHiE06mGo8FugzCr6dZTKfiwRuy2RhwES3uFF2DiglRzXWVlv2zW7LDlwrNzlQ8s5E70jv59JqgsiPoZpid8qdg_ZW12gMTF44l6etDuxabih06D9Gni7I8DP_9GisXtNG902_xON5xyzAMlW9iEUM8JoY?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqieR_kn8dTHuYWr2RNYJLzw5B1LyEDUyriJpx0567r_NZNHAAJMc4y60T9JTJrDpbKbGvKr2kX7xPMDKjjYFB0hZVbkhlPz4XZ2ef2LaTe92puB433x1aBpOpo95GrBXOTOAFdu7NwXQXDBlAUPvxCnbwjBThmwijj0XFcJlNgrc_NPKg42-VaS8KmXrTz39cu_dv00t7YYFKEkfjtLEGdeIlws-lwtaK85C3E1T8y8ly9kcG4cWmnSao?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkovPNDX-E29gr4E3Px0xPyrLguS_G519zr-TWOD_jYM34Hh-6D-sTbw-OR2J1GMueAOw-dM_aU38-NmjRw--vH-gC0bxB65WgdGRzxYGobCdKwcIXfsMa51Xc3X11Tkq3E5V7HweVPtJkdhAJ-aR52zKfPUCkh3k_afPC3kNcBRyfzV5naVALhVIWwmQOkMgVIc26rwQhHhKZFBxcNuyRmptJj3VhoSz7E-CcoqOSuwYDQaPram0HQZYBE?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrkmLGGCp52kZ1pDjQcxVdGZ1hBEo7dIe5qlZtRaHFge3SkZYjGihXX9jKcz0Ns7qRB9mqQnWu3PtzuVWegblS4Dzr-LK8LhkdzYEJSoUPv2lOhqyGi42QycAgoiLSwFRH1iNPrjYV_wSGZjBX2qrURy4xHIGFd36vIv_xfGSWEFk8YZbvO8_x0xhlAU-A3WF1T5LkIS4lMVXXSuL0YyWo3fi_zV8aDpKKjIhxzYFdbYBU_Zd8mG1l0ksQ?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 453</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. JOSÉ VICENTE DE ALMEIDA X RUA ELIZA CORREIA DE OLIVEIRA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>PRAÇA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ZONA DE EXPANSÃO </value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>20/02/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-11.0090007, -37.0895761</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoYEsI0yiUtF6CpIAWGCRqWKpvZxDzo7t4qjH63BTdaPIxVmU0YTVpIcHSf0HLSp341Gqmhm3f3ehuwKW_IvB6iMjp9hWfxBXVEPzPo9nTxmziurGSnKnrj8mlR0uA44eE8TGoi_ZmH3tgTyr12oi8aAlzbSvHFuGfqfzmfuztfcMox2MJ76XRPsOVAxWHFCm9myECWoXRtMmyiteZt8NjdzXU6Y0MBmSTTC_Yl0lrUyQHS_C0FG4JMmLI?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 464</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. MARIA VASCONCELOS DE ANDRADE X RUA ADALBERTO FONSECA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA GALERIA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ZONA DE EXPANSÃO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>20/02/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-11.0050066, -37.0879599</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqzC9bgTEELG9AOztqw5a3CP-NiyiZsxl6x63436bAmkecQ7t_y5blNCrKqMAjzqyWkqPYNbvCAo74cO0ePWhdBHUSvZlN6wD4nLLamRX0mMNoNRneMVLVOZAlda_hXRyD59M-zkDafQJfXhxZ7DaUUcT59k4v_NO12CgwoUix_PcVPIR8v3_ByO_wB5MpGlsrQRLpKkOJq_FCopnihiuwaaC2KFXQ1An0smbLKxcEdxtaCW8d21x8fz0Q?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoXDCwibuqo7yIX4y7IT-ECQGcYKrnyTjsOCRNDu4DKp5czBpUuZgoqW4IvVg-LsGW-Q3mHoJXHU-AbmT9vvJ22RdXbiMRYXYPIIn19rrVA7sZeiREB3IwzX2pGQeY1V3LhDII7nUxBGydI2R_2lVWU5_1EPiIEUHHOvOamKOZVj6UN8USSH7pj-M5cglJ2Jk_BYnipcJ4n7lFsttfAYg4jLc7V38w_F4rZUYJwLjK9j5NjH0pwI93dX6Y?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpEQ_mrBMoeOPu6QbDWy35pA8vlWucfkLKLn2iwUDF6nobgSkvSX_h1UOyWpUBrI9KTSFRiIhQFRsuqLU8Mbv6XHh7Ga4SYL3p5wv7srdF89LMEyBJF9NcvmuWHIToCHlkJFjIB3V0pB5NQJT8RRFlkjRLGrbs0GdlW_6ZBcDUTSP8jbGjtuTHmDdK9u_kKKMUaPyVZBZa8KfcKfxhJqAgF1we8sIRY4ZgUSrxthfvT-bXWFOhh0DY6KVI?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 466</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. MARIA VASCONCELOS DE ANDRADE X RUA ADALBERTO FONSECA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value />
+      </Data>
+      <Data name="BAIRRO">
+        <value>ZONA DE EXPANSÃO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>20/02/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-11.0048545, -37.087924</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoTDOns48us134N2eLCbO7Sr4xuitEN8T9uqKI0m3HKAE_5KjHuVp_TFMUUqapSJDCl9CkVTuKCFB1HajNMgpU6me0UrvxkTqZwpIuYBJSAz_fVK46aZeuiQF2f_Z_l-m-IbGc3GlZIvgdJvAF9jZihxSp6Z9Xk4DwXmnz7uJfqcIkG-V0U-cc1n0xYg8MIUPMFXiNbeZlYXLa59Vf2fNUEUBhsjfwokedcGE1_ofJtN2fv_T9CFDKKpEo?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpB8MTbqU2xvoD27XxTxr0tju4KHCrPePXuy8Z5WNciA6xXSpRw7sejf-fMv85kxmguQZ0HnhchxbQDZqGpgu7MgGtwtv_epZiKbImBZFpqS6qesmtUBWvS0ZOMWFWUJx37rjvORSWLlrXkdH5eYlFhMqbBIKfUpvx1n_Fb4tTCgT44H03Ub2FCB6fKaequfs9DSp_--EaZ_jsiH8NdUuVyMs65kioQuyuxBpK46pplj8GoW4ouYqKYA5E?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 477</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. JOÃO RIBEIRO X AV. GENERAL CALAZANS</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value />
+      </Data>
+      <Data name="BAIRRO">
+        <value>INDUSTRIAL</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ AGRO</value>
+      </Data>
+      <Data name="DATA">
+        <value>29/11/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.902529, -37.0503697</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkouA79npaY-fB9KnRyroO3yuOI2n4XFHMuesH8eB0AWltHX3nKDiWkj3aQC6dhmJgDMZ9JWhqXRc6sAFxyvb37HrNSLBLCKyu3ofKi1GjJ0Ih8h6ckRY1ELsxZ9ByetR6w-XN68qvu4aw2ufXWfYmAvwRdlvv8ZU2P7ULE_ggf9p2zb48CYrdQBq7Hlnq34tvt5XFA216FAg3Hog3f5qhrZ4T5IOAcBBHmp9ROm7Ff5nVwKAc1_xzNTi80?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqLveCc5HaF2HiVSAX-HSvLAKWW3189As4eWhgYIrlZXcEfoczG-kmg43DGTasscN0EwMCMBMCziHxGVv5rrB_ceC4FQlL-0nqbu82kLl6Vvr_99kFsKtFz99Y4E8FwTdLT8Tgwy7rmN8_tyLFnRBH1JxUDgC6bBIh9esvoCrFgIn3kbdeIc4sOA5idljomQhHt6Zu8Pj9ji1TNsSqGksD_iGHqoApUsGIJUGVGNwBtx982QNYCdUu7TVs?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 510</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X AV. PRES. TANCREDO NEVES</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>INÁCIO BARBOSA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/01/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.955296, -37.0534646</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqMMP-NU8D6y-2p8dH8gkT9XyrsNs9lWXjl32lfLUj5EjK923iC3YGzgmy_PT6pGFXl0GPd4rn7F0sclkcaNhN5-pDUR4oDz7Si0kFma12jl8SSXWjoRAWfFj3q8ahSDaqahKKCFLIFGI7-btGMLCIKCP5xOL3TCIkIujOx5tJZKY3uDyeXdc5lWnjlvQZiVwHo9I9QZniR4gW3NsrW8O4hezsuZOhsvBWjq-zccysAwtILw7TI1YtnQwQ?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpG65ymFV7qsh5u8hiKCvzcJJIaw3RnA5tvfOo7irvf0pXWUdS4rCrPgQdQs2RDYucmO2PtUZcPeNC8bpUuby-iAnYa0s71aJqiXuY3NI-Zp0ypMz12syS5NrKc0vvWqJH_RTQGG3lXGkgqIbiJr9a23Qk6psSOE5DsRDIv4rft_Xn2BZPVgBa3uBryE_QrL2cBSpGOyZOgdHdB7QwCGddPVlZ8B9dEZkY0llj4xxeiNA6rx4HrPz8mDCg?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 518</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X AV. PRES. TANCREDO NEVES</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA MANSÃO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>16/02/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9547574, -37.0530734</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoZ2Y4tEgqKHXT2cD8JSthl1Opcm1INGHRsxhBDtlxcUewcKROV1o2ox_8AzbayQg80Xe0bv8VrnJi7ZwRpEEoV_mzoECJg2jJvjEXAUmA7rbOFqjfKHDypah6nUkoIXCfvlWnBUhiWxsQvMC5JT249aytHcs-PzGUFbfX4clLQUgu8SL2Qv5KdS5xwdZvk6Qt2TV7laleFJRa1gOalT6QgEImIBwpOpBp8-YeKjZXxB-UNdugEYDn2AWM?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoiK5Z4F4tOBRVvKVrhpN-mccLJ_x-R0wlTvyXuJ5pK291OX14rfD6624XYz3LY-IWrdA87qDY4pYrQ4P6A4FRgpCRmikM9Y9UVSPY-aqPckNezu2MI4ql8ImrgT0l_Y5NPVn30qRDpxPKd96R9M_tWTXrPPx8TIdhLGVT6sAv3DsISWLbP1wbboWiBV2nsCQhrPzfqJIuD9IeG_gJMxxrUjigfjDbw-mPTlSHteolQporre0y0yYG2VXc?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 519</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>RUA ITABAIANA X RUA MARUIM </value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA DO SINDICATO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/08/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9149465, -37.0502744</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkq6S-qu8uHX5pJxx0N5oSmIYUMndQBGeQ52H5KyALAXca1VSXusWzVTVuZxWGdoyYkuB29ISwR0b3xG32jkxt-VsnJ9NVpTYv-TdXneHnVy2B7L-TfG2jVJrDHWcNn5vsPY_FGDveNGEq58rlgSaExwBal3cqr58JJ9hbvWWLDP7Xgom_d2rk7uj9U8CIQL4fwSTZVMsrx1lrVoqwM9ZFTe7ROFWjBeqMaeAKf5mjZ1ycZecSVPYuNMK98?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpAA6p7XVYtEWHh2Wkl4vyshmSe788Z86JCclHxGM7u9fXIJy3UtEB9Gq0PaC976Yvr4824yjaq_jGoake808NnWxJ7jZAz-KBDuB4_Nj29hVCLW9Q0169WfeqE0NLJDWIgTdMrY3iiDomeECH51ac7gHmTJyzto9PEMCb5NnE4b5m33UjF8SqauL-vqvI4nnqL98LYlWCv2AOL1M0NhSnhWWaH3I-X6NpcmWYSzxUYePR7RVm8fZmz1rE?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 533</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. PRES. TANCREDO NEVES X RUA JOÃO OURO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA SEDUC</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JABOTIANA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>19/01/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9388667, -37.0815217</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkp_K5iYNrFfFtVWfggn9gc2mY2oiRykI4EYh3ZCWAY-GummseaYhNe1mxMPWm6S2u0lRLpDUfMElbutqGufmJXd_ZlRf51oa0pBNWES0qevCAcDKxJI2W9iYhI4PeAaMFdnY81OT2Igoi3BXPZuN_mr_a1lDq2zrV3CZwnvusEKsiuk0Nc201GnaKZmTo8bXE0d_8EOZyvyJZhIVUxGQFEL6PiIW4KEH2qcruuYM23kZKuqJmND8JNwdrA?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkq_S2GEUsIxAkTYUt_zcxzbtADyN_MUOEIuNobBFsxh4RXEMJWfA1sJIVL07SUQ-J-EOj_xb0xNUy8ZWKmyAhHTQO6dOqUEoovDDaXZwb8KsC3KfH2shOxJTyzYskEFwhNi3WnSKvIXiIheDA-k6UJLhTO16AqZhuuoqs_VhvIdnY2oRCLWXgnhfh6pLnqJrA8ROfkDoi5AvbVYP-aIatz0Q9khLqpdoyFi0RKf3YzWC66op-LHlkRKaHc?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 550</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. MARANHÃO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>18 DO FORTE</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/06/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.904303, -37.0675509</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpD9lVLeoTkaFGxl7IsVzgc_sX0oHr4PI6cL6o5Pg0lvSrEam1Htz_AiecTqSr2yqK56Yg4JveYXJn-uoIJhZ_hJEAjRCJwGjuQD4rtms5o9bqHu4yqoKe8lDtUarsFCIG8BJpVn2TgScC2XhCwzSqXi4lPjbK4vqstGjiowTd_bFSOrWFQhsYsxBR-uOBZ70xNrthFT9fe6dDmIMxHyJ3QcYldwW2nZ-Bp4euRDSY-xJj-Pr2nr7XawNY?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZko1vTDKfnhOkaeWrdxdXrY16vyAoXqZBVGuHFy4BvpSzeMZngXpbxYFIIQ4cs-tnkj6Qj_l1eqLfF1j6ZXpCypVsO6KWZvPzkySHH5xpG-wlfiFfuuzzpN0W4MyxW9ri3nrDsfKzbN1DDhRfM89go4KH5ri9PrnZRWFIy_tTr8tDfCaQqaX5VIXbJY0l8CsNCfYX99uFQfkZHDSb-KeQxi1nkQRHKVZMf3lgyKWIb22g2jIvy13l1I2f0k?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoJRUmBKKmPeas4NbLbmaKqVYQ-ULfpp_PLairoHa0RsOb7baqbdRk5Jbd2U6zktPsObpo0FFcuCD8HsC6TwpJmaOS_092b8z9ZSkI0aTrNA-e3bNDmedV_oTAvcVVvYOWn7bCq3n676Gm40fRrLWmquaL7_cFeJrkEQ9bPpT-QSymuTveDrj8KKyqlyrPITblDVgV6mxIS9KP6AdUnepMifGONO55u9xiambTA9XT3VTEyK-HBZ_xK1gU?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZko86pYKCK77hLUtv2mlMRB6B8CWx_Mu7OVCkGZkoVah5xiYEWSEX0OQJMZlUrlLv-DNtz-ahZxaQ8fhebLBlHMOZDcEk7hu_3iCEISBV8rPDhZupovVmCRU6CBtwPDF4Eu-pnZ5H7OBHnzGTCJ7-insrUEHRR-vZ4cuA1rmjeoh9cR1po4UDAHiCPTyuN4EDf7rVpfJMTIDr55YoSQSPjVpUsKEdQFG8WKAICknp6d6jbvc3I_BqvxfPuo?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 563</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. JORGE AMADO X RUA CHEROBINA DE CARVALHO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA COHAB</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/09/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9381565, -37.0530625</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkr4rvCYLn16icDfYcWdn3xzlbvZudsqHIwN2I_bx2E533QutBRvTXjWzhN5DwMi10rxhICvR7_MXFvVV2UrKDqqyp72Kk0DPq5Yhc50GB-uf9NFQ9I0e5HgHFfMsCEvGhngCvi7tSEwe5VkZ9Ip6zBJAxpenPXjHGvJ6Q2szFXvc1uZLMQ-6zMaHi8VVw66KLVyhWJ1TBmEbdAPe72QYqNEBxpuNgveV-umjOz3YnZ7jVbaBU_iZj2uX9Q?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpr7PW8T19zBeRlxQmN1Ihuq_tfgLXmorc3F_8a7YRUeVswvfA_XhbwtGnzcgOEGWXyQ8W5IT14n_aNqce9-cz-cspuLXUjbibukek30e_THF8_ueURs5hPjR85gc2n_k9niOo8QkNxmdkWa6ghEqhUacEDPXekvQP1hmAbt7fy3M9F6L-tu22x_82G86B_qxVMoL_FkUilCtKqNFxY5BVFFq51yXQTeLaea9SAw1NeIWTUX3vcK2tJr3U?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkplWo5JwJKNfUSD6kBp7F9g7Fq70K5EIPibitf-McCKIpWHocFpmZM783zZ5Mta6zOQY9Uhp161hqi1SeqjZag8fH9pPelyxkAxVpeADEmf3kFWPIxVDuycHKxNOMHp_0Q_9RGHT8b1PX_D9pVf0oyklohSrrWAQQiXkDz1aL3DFTKbm9Zmz5HGl4ZJBU4T5JS487W6QUCoOgFQIum0iGAh7EsmvmnMdHtPdx6WMWX9vn21R9bGKT-h18g?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 565</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. JORGE AMADO X RUA DR. JOSÉ DE FARO MENEZES</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>EM FRENTE AO BANCO ITAÚ</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/09/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9368185, -37.0529475</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqsbkDJJnu_G6yXqSK17BRbgAiAqcRfuQuB-nbXap2gGVjP37MKB3-R4T58M-r6ov4AUYU5rM8N5uZ6ODtOS_OMSwxFSo112KGTcuQjxBqYPIbz4_L054UGCpETGMY6liZaGh1ZubF_n6G0qpk-mR1qjPyngwVGZSD0S5yTRWQW3ZFWpVM5e_Fue6T7N9YkNISCtHERWw5G7j4MB1DuA_UVx1ouZqEIh0i6mIZgr82_m99U-3qTwXJZY6k?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 568</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. GEN. EUCLIDES FIGUEIREDO X AV. MATADOURO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>BUGIO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/01/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9026732, -37.0893157</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqKOvKEMcE-WAZ-_ShvdAGG56lSQoTYo4vqo_s9Cvtgu0Xph3Kqwn7muL5pJeVw5IIyGytKCXawNwyDPnzBraBqwpqa9Y03RxQ5Ym8C1uhd6S4z0AldclkajdzNWlw0llmMIKWzzVACA8AVovkkNz0wwtQa-Iv9iph7LoMzXXf_v7Xl_lA0isCTk7UZowJoC10FhvbvEJdsWAQoMM1G0mCTBDCtLNX9fYQlcH3tmAU65x3VYEtLtWHs4RA?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 591</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SANTOS DUMONT X RUA HERIBERTO REZENDE GÓIS</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>18/10/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9780895, -37.0413006</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrVrGG243ynzllaLuhc-z-CzVALvrZTluGMBTyXTkYAgxbwhuNQ9URYOSn3Tlcu_7tr7rWi2La74Bcz1eDGa30pxZTZMQ9FtCLQ8YPw2OFdB88bMcypteSZS-UmM8sxmSeF6xn9cB-Y0dgbwgHY3ucCvEQ44aPgipN_dHZJAE8ZiB6aIp-6MzLLB0TkafEIzpwtk8WcSxo12fy3xnsiuf9aw3jrUTvwud9mas8QhiR-h_jxxa8rt6PxotM?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkp8W7m4WzgNfa9MjaBVmgehQSioIpfu6ogkzFRu6IklEzxQ__IlZnlrfUvnHbnwILQTmhwNvI5-QW_avMcHdQtzBPjYDdK7NbpcQPHnCzaH3ATqIymlsHdgIJsbR4RNCduzFS1nQGbnIwJYEatCEz0wfN63BdjrLSRwpsNZUg7HVnh-Xx5-qlfgeDHu3lu-4QefbatM2rlbPtoeQIOeNlAQ5lVJn7BdgjsywkKeDJIbA4lUnp1MgWEvDGg?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkp-d-W-IhMveiv7lhhHZyMS48Czh5iiLjEUAbwWEJQZSixs_s9vUZBmmRhfwPrgdlKQk9zR78TN6q7LIIlHVek6KXkuqgelmVxBuUf0VFaPDMr0-Kvw0qUaEAoT2uOBN6bzfP7JFAtHm_GWu5nqK5nGDk91gVaCBkuiZbWMxxEASfWwZYr3YvFozS1RctbZZ8bxSbtQ4skfYbZyZhmKheev4uTJ19peUNnAQVT2-lqt2RYRSsLvE__TWR0?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkq_NYxNr_ssGTIB-IPQ8qL6FmDIVjzleGZZtWpgt3APgSqZP8jjWhvq6f3ZhF8fsKh3EyR1r1p7g8dHSaYAiXiGqbIPxQTwbMOMrtiiHA4a8pZKv8ejWdZNCkUz6ln2fPmI8phzgryP3GSF-g5QB9uyXaWfT1bQfOtbazeCIbUSQ_4_OjZmQPj0tAmA8IdVepSxghEa14V1EVQ3Zd81t5TjAG6l92mAsssWfsffbcPid9574UxFLO6a_LQ?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 596</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV.AUGUSTO MAYNARD X RUA ITABAIANA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SÃO JOSÉ</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>24/04/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.924186, -37.0503292</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrcogINPKF5YJI3R9sSgDajvT39yfHYmwfsQ4F_9DzamQkd8MgzIPiEFizIAX8D7TOuSZVX_0-rRFr6cUCJ3WBUH2DQCFChZMtkE2c1d-uZxoB_WwnW9FRgpDnnT-Oa5nHcfYIE9TbBN43b05KZbSrwh1oM1n5dwEtf3J1Puxb-1xW0WjnVJBN3EJ-zrkiS-jQ5L1078tAOaheLv2MRyG2hBO5AkYB17IaSSQ5LOO9OPnm0i9yCGt9d0j0?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkq0N2rHw12YQVSM3qAzoZOrEOlA8bLonC2jtPv43gulthE0v1iKkIDy4qa14kwIC74_VBNG_12U-m_D3Wvz1oPKEv1GgBEJLNJDfy3aaBkc-EFXg0-ytIUcuvZpdxCcwmhKiW9xJn8VfJuZWrcOQ1BZS5CQaNk3ou1QW8UUbm-vtBuqsCNwQTvg91abzpcLPgv9oiKuBOfUjT8tpLydA7EaMBO8aYsnOpuTjIfGGmc5NmmicyR4x_oNPdE?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqr1R3xdtFbuZKkiebjDPBBdcWy0ClrGEW_9qbdi2hNq1TPZeYVJsXnH7UKHAr04TFGlkPBWjJQAIgkRop5XIHTgQ63KZS_amMQ3LMBRmAT949njJnyEC86UWgJkpGdekqNL2iImOWuhdXph6ziSVB5o-uUq2r7SKMmtXOQTlwsUca_NupoEo09rALJuYTYfqk-PjoXbcbN_f1-EgPvD6cLrM1pOlYbIoT-pFZs3tRCazJCBF3PtIEG0ro?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 600</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO X AV. PRES. TANCREDO NEVES</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>INÁCIO BARBOSA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>20/03/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9467031, -37.0724842</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkq_EoyOKmGnpDaVhHfwSHdJL7rDXXHT30i2FPnHHaRAhR9WUhqnDJ-a2HpCg7NcfnM7dOCvQKxvDg1CgsXkbcnKTLPszfChb2PnzfntiKOYXKdgRAA2rh0kSUXK33QdTwKkQAjJ-VrplDILfR8Pv53DaIyrTzTcghRc1VlLamzcnHS0snJ2s5E7B58PSvuUuHXJzx15MMedzE8IRQAUWMlUXRMO1nhBAnSLrRDfdBQk7UynxQ3HG3q8_t0?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpTHYCgmeBLTvCOReVlf2Ec0Lsr9CygC7WkQY-tuQL5T1Er3CWNozY7GskfSCsAjiE5nnASO4_hy1DKsFkNJXwVN9GTrksYI1LvD8IE6xh_DewJ-XXej_ZXGq8gjAuCEJQfJCocKVZM8VMSMdJIMeTEf6kl7OBiLT1j7yY4DyypQZh4x4qBCv2YH2dr3LOcdxiXRDje_buB8_mrC3l4j7VidsSObrTxG25L2cZQcCmUg1nABZDSrBK-aH0?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 623</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. EMP. JOSÉ CARLOS SILVA X AV. HILDETE FALCÃO BATISTA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ATALAIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>19/04/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9830808, -37.0565486</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpnpVrrs1ci6QBzfvB_QhVRhvGxIrt_AsKfWRPkEPxQ2EM72YJpwS8KKilPljRn5xE0lwgALETN_QQftQJ7ZyjKgx_QiHGxcmUCncH2VgCBp24ISIHNjNeFurWoi3dpLFQwGwBF3lhqvRZ8GSQlaIFYOWzzeWa4Nc9JJf2PmwDwBRR2WdEqZnFsXEaJ9chECr6aU_FxGbvqPDdAP-b9fAHmBgGCixGg0VtNRbRcb8AHDW3K9zvkeoTHEUI?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkq_J9V01OcVyh0kr84RhQNfUNDCQRlfBcOnPQJz1RlQuVT1VYynGY2dGiNmvoM8U3-a725FbZNQRHDos9csNxFrZ9T5xlGhklpFMHUBcERHUcT6IWDShnHfjbvDRc7MkeYng-L-F3ywQP_bz83OAnNLhsLk8dS88emjkuZDTI_Pzm-K-vOOOG4-f1vhNU18_RnstYsCkTWk0Ekslbdr2thMJ_i-G9L4tlC9dALDJ2ruraqsNTxgdxDVT_E?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 275</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. MIN. GERALDO BARRETO SOBRAL X FRENTE AO HOSPITAL PRIMAVERA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>EM FRENTE AO HOSPITAL PRIMAVERA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>19/01/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9495952, -37.0656314</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrJBiVHo0id7I6pgqbxeI-o2CNmVTSAZVEZ9NS9_DddNG2v7xq6bsX1sqsKLBZXUyXsSIju_C4pHZ6oJtO4FIuKyXUu5rkdoszsyMXNrTVALBxRElNyjM1N27SeZhG5SRcRdfHQNV_wq3AfC0k492HTPSxgR-JlDZeEpjJ5_XuZtlFRH4QFC1lFpLtUmQrlPn4z3FnViBSpyIoXtqY46guNHEHWrUDiK4zM7eL2w2H2F8j9c_ZEpIjrgK8?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqwXjza_ek1sKLhyaZTcivpT4Vit9rSdhb3R8THNNNL_D68k-mXzl3NuXr0Ks4F0uOYfoIlgonc70Cuu4-LdBEwcKcqc_YcsN1vckd-7ahty6DzzGv7uQS1F9_DKrV3JhjdPQvs-COvKPaFyMreq0kCdGRThrniQoUbfIiG2iY_65V8-LATuy48cf5eK-sFkpEdxK2IWRJ_3S7tqDPz7pzsiVZk_qyPLS_4GPOpqYYZsmK3d6jlnYYc6xg?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 517</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. BEIRA MAR X AV. PRES. TANCREDO NEVES</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO BEIRA MAR</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>JARDINS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>16/02/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9547547, -37.0530348</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZko230ipuUSOOgAQqWidFOz5FakF1MqpDeg7GwhYFsc8Rq7bsfWUW5opJptU9xaiknBH8GjVBXi3pFQfaRYWQHsuS-UINlgTW069ErOmHdCNDCrV6CyEfGUlqElAG1YEFDrohXofmI1jUu4MLR58y4mBjMwTNxJEmPRuFTfnA8oLarrcnfhlsxqQNlSGta2naZ-kHxFpGBKdd3rhVVfGSnLAejniglghFEkc7iZUU2OCv3b_n6jC6zB4E8Q?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqpC7eqhS0dnr-uNyNvFl4Kl019Ot5TGo3fAGLHtasYCYf2wqcI6lRRVrXrF-nHAFpqOpmk8ljX9MicabAhHXU2F-Xu6EMzwQWqB9Y_fkM-A87mU8vWVWqeTGwXHTHhazTzrTJebTNwfuzl8H7yn_aYMERrwQ0k2jSxH07xVYaArbb4HVkFgNjoEW-EWWL_sskut75mbTKAaPGQM9HzJZT1ChZZzVUBWPXf1-GDZNa-ntQKMEovzAS6okA?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 468</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. PADRE ARNÓBIO PATRÍCIO DE MELO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ZONA DE EXPANSÃO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>20/02/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9952358, -37.0813073</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqJSsyT_RbJgABNplWVHVQKXR3k3GodjGZBIu9WyImRfIZ17eGsiHxHnZ3nYm_pDfXiIKvCU9Ua0ZEhrZtk9qklPfFMu4pVAplECWt7sE26PitfkLrNqPmu_Pehip1ChF3Vm6ovs5guqzsGSxvCb_fEmdldyerJA_7OtYZ6JUU12K4tBrhyl3mK95k-XKsH93ZCqMDFLgOCiJL2gq4HleNHXL1rgGNoyut31DlTO3ngUbwU55be87knVzk?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 451</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. MELÍCIO MACHADO X RUA PERIMETRAL A NORTE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value />
+      </Data>
+      <Data name="BAIRRO">
+        <value>ARUANA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/02/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-11.0091857, -37.0757472</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkopY6LNjhGmETJBC94oqw358dJl-wieNtAQkjCsj4Gjcr0J9nOlR374ftTzs7MQN84otYTQxbUa2ZksCFDthliIEBnP2iomjIImJdjqF1eHTjGH4Kg6T34iNPFekf7BD3XlFiNdKVX4klqMncsrvdK7_4OfS4bFyFlhgv_CQsTiaPeWMCog7gOPjjVD9TbHaW3dEkxqf59Q3GGrBiEEtbeDwEhbi6ZsXWi6pl0FGtb6unsGUz1pqEl-goU?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkq-Rqy1jHy46Nts1MbqsJu0XjeC6wA75G2HdUK0tYd3RNEdnq8b-tFFgoYvFShSbB5NzyYges25KAAODdnHKF6OjyQZVweQ3Unuv8QzmGBP3pS51xsKv9mJTogbdk1QDXItib42mpYJxBGHys7BNVneVrNRGXeWgN42mxu_6Wjk_n9jrqiiT2zIxBMEeL-KMeymnk0UdlIUHLdOnAnV-MO9BRBsW2LhyMpjQBwwufs1YTuZip5sjy0dz6w?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 637</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>RUA MARIANO SALMERON X RUA SERGIPE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA IMACA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SIQUEIRA CAMPOS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/01/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9109804, -37.0712714</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpoXemeEW7Bbs7IWPFHLDz--JaWWeGnVonmuZIxBu7HXbrtl4bh3Y8U7Mg-nnU9byfBN9gRm3117r5oNTOZAyF4T1rcwDD_zS0l5PdLHY8kK-zIrvf6bgmDIxZ25H9_9X7RdfMUz7PbEbxmDfJq4emynF_JyVuwJeEyGGzkHDQ2oJRxLhQgFfMzEYeUmKAc36pf_QBQxut-ImU6g7n9rM9pnlUgsjz-G4D5w71sDj72UjNfa-HSxP1abzE?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkq9FKvnXdbGLx0x5JrNck4TcPWwWPCQrlOMV9CB3FjjivG5tikF_UgZB5qj3mxEXDgNUqd1GuGDe6mOIhlsg34bi1xcVsNgxbbnBDvPcDYYQ2UB3JkkcfUkT10UlfPuIKQW6Lq5WjuF3Fvg8n4XwG9KZsNRDqkXQkhfI77WnsC044IEfmCcB_fMzGnbs57zz5KlBlAOJuauEc1oUlvt7e7DyDSOCDJpDa7Ilrq3JvIHNc8vbllrmKhUMcc?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 638</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>RUA SANTA CATARINA X RUA VER. JOÃO CLARO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>PRAÇA SIQUEIRA CAMPOS</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SIQUEIRA CAMPOS</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ RAÇÕES</value>
+      </Data>
+      <Data name="DATA">
+        <value>23/11/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9097367, -37.0711649</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZko1UVb4jO3ZzFNUVVhQbkhNDJZqna3LJ1bFu2NBCfM53jwvKNnoMWoTC_DsxZeaCIb4xatbfEnevUVLwVazx4j2iNTf7NERoGyoxKLdT-5P8B94kHmropFH3OzXVeprrF1rYA1QVuqbWm2ssrueSz5tcRtN6LDHqprbrOk_jp---b4mkFMSNyf0FJcvoW5MriIBtC9csvw6TpPRbgf7y_40frOKFvxzEo_JFydf-gmYp5zMCfm0pXuKcpQ?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 639</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. OTONIEL DÓRIA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO MERCADO CENTRAL</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ AGRO</value>
+      </Data>
+      <Data name="DATA">
+        <value>29/11/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.90477, -37.0481587</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqVJi6puBEqfLMQySa9KfeqGjXZ3xavkLEqV1DlPfguq5jQX8HF4t9KqO_PkBFFqt_HRudFrwJJSyh4BYXkmneJYsPe7MeQCta0LiAkjf45ZGQE_w0AOfU1YH0KOq7fhwOaMKlDhEqtj6adweVhbsQRxsxUrafe6wfG5yTNPSCip5tP3NIyTzMFfg62tu8QjaGts3L29L0WkvrvbgggkA74hXIyCuvysxKss8VR810T1eSJBEwW5BoOxgE?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 640</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SIMEÃO SOBRAL X AV. JOÃO RODRIGUES</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO </value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>INDUSTRIAL</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ AGRO</value>
+      </Data>
+      <Data name="DATA">
+        <value>29/11/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9032258, -37.050543</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrTVg3L2qHt3fB9klxY8ovt5Xc4oG83gO8McOMeUNilIAPGXNePZjKvTh2TwCY8OrNg7bN5CGW3d3l_x2s-RCMy81WcSES-OXNUzTBlTkP-1pWh2a_aeAiC75mKlZsYB06GATRlpFZtjlDy3Xp5yf5X9P_v1QvWU8AsrtV6URR6p1cGkwtc0_-uEbYK_L45eRowrQZukwDdEFBLb3zqxHB-lHAaLySlCvNbR3hi0DHU3sgFUTjDtOxgDOU?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 641</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. SIMEÃO SOBRAL X AV. ANTÔNIO CABRAL</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>INDUSTRIAL</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ AGRO</value>
+      </Data>
+      <Data name="DATA">
+        <value>29/11/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9033353, -37.0504334</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoTJOiGIDOEQGK2Twid-C6lQicSa7n-Jikansxn7StGq6LEp2gHRmg66zwfpoIZo-v5RJwIxvS6WsjK0PBJ8QkPcIiq0jQlPDQdU6bbqMF3ts50TWqR7P1X96X4QhDwGah9hqBi6Fq0AR5Ac7g2EhigarlfyeUVBCJY-N0-d9CbhiScDio2XQPSusIs0wPGTKaePT7DpdKQ2mC3lHaQfhtqjD8HV3SMDzmnrBuigIZx3-svkgqy-mNaIug?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 642</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. COELHO E CAMPOS X RUA APULCRO MOTA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>ESTACIONAMENTO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ AGRO</value>
+      </Data>
+      <Data name="DATA">
+        <value>29/11/2023</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9061341, -37.0503228</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkp3W8E7pMbLaqEbiwfA9le8Xazh8aQkOij115KlACTBQ48wTAkiEzyJVgEQ97pCUn1-iuvzsK4MADf5DNDR_UfLj5IQOPr_rREPnuFakqNg8mkpUvYUDvx-R6Lq-7gSdOvRIAT6jsfdCsk5Q7LrvlwpVMu4yznm6Fr-rKe8OFXDB-YEWodkGCVNJ-YqdbrZHJIl0ZUM6zWZG-a4WV0qqy_NME8iwXSTdMx3XoUdP1Z0sSOuBBP8kHttAls?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 663</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. DES. MAYNARD X RUA DOM BOSCO </value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA CIRURGIA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CIRURGIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ AGRO</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/01/2000</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9184713, -37.0586051</value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 664</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. DES. MAYNARD X RUA DOM BOSCO </value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA JALEKOS</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SUISSA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value>RECOLOCADA EM 12/03/2024</value>
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ AGRO</value>
+      </Data>
+      <Data name="DATA">
+        <value>12/03/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9186478, -37.0585139</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrJeDrU73qGp108p8wxFD5rGl_-PEAVoaUEFElT6IrNcW94_kEAlf9dISLSXY5-4TMBNUlUcUtigxafGnpqlSiOt3JZT98GvaEya38Dy_oPAoXTIT5mPgQD_C7f83PwMTkbSSeY1xVJYS5lAnn_wWsUzUQwziT9fRYpwX9ddZ5dbnK-EyXR0Md9aS46OuXGKVHXBItJo4YxMnVJkOwENS7A5CtKmaaMGgH3ODmOIEPrkotjv-9YfaBtAeQ?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 671</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. HERMES FONTES X SINHAZINHA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>GRAGERU</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>21/02/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9368651, -37.0629355</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpiYV7zqWEd_FAO2iRc0aDG-sr6pmC9e7R4BOFlbEAtZN0UU5083MuipTUi96O0zjtQ-sy2GcIKqxeNQ1VtHNOzq3cO6rdwPMBwi2wKPgcdi-QCEsk58KUVdBXuF4xSHDLlUwv8Wqpt-4Lt7hZPJgtSnq9wSuQ9aILnr3TNepA6J-ZdhnQV8hQxwuqlNkbfgP9j-Q_yBBfNBglDAMnTA0TRSJcvHUCN7hbIS8JDZMOVGItMB40J_29RglM?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 673</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. HERMES FONTES X SINHAZINHA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA </value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>GRAGERU</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>21/02/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9368637, -37.0627973</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkptkctxNWGpz8HWfNmfAPDQvVhu1q0KgcVG-oKMV3QS9nr5fpqgeYIpzuXfrOxO_mvDpWN8eQT6QLjF_c3g09AdRBDAZf311kyvsBZeHI_vhzUfcql2yLzpg84dJ5YB3S28fE7eZdZTRIvHZM2wmlOBC9fhAhWJgLbRS34Sj_oDgcZdyyHedIOFzpPp5nev7wTWk2Wt53Bkrvga93pg6GwoiAr029IcV9AMgasQDJF1Pw3mGmGNhX2abOA?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 677</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO X AV. MARIETA LEITE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA CONDOMÍNIO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>LUZIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>07/02/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9421555, -37.0671139</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqU64u5gONCSqvilNtWu82qb_IQtCus_Iz-N2UqQiUvyDjHfw4bgGZr5ea1PssesmMoWy4Qq10x70CZjuvLq99SXcijK6os_NUZ48zYwE3PnysQcoAz5zh1SEjuak445dbRUkoXgN-6GG9u2-1uQZ3ZF_BEEzg-OuvmuT-l1pSqFVFbvnQ7y0Uhq0qxi7zKj_W2pki7KpC0N2vdSp6b57ZuO6H6zv53RGpMsLWoJ6EfrPqtXTS6FM-vWA4?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 680</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO X AV. MARIETA LEITE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>LUZIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>07/02/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9421932, -37.0671022</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqpGRE-56HeECvBToEL_IPY5jS8ARoEJURpUf296qCGt8aPShmKKWQW1KZCt6NJDs_fZ2XCMUxc947fj4OWzhKITLjOw_wNttnxv5l6_-ic2tmTUCt5INXJP7NhOK2NJQlntl1cV7cwK9Nzi81kR0KTIYz6y9ZLhftrF1Eykc2Uqg0RcWXGxj6KWWcFG84UyJSTPnkw__IlB_yUkN_QCwU5OAmmW9mzsU3YUHjYdmR-xBFVHHdHrmyRtTw?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 681</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO X AV. MARIETA LEITE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO </value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>LUZIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value><![CDATA['07/02/2024]]></value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9422024, -37.0670264</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpNEXqK55eEnnGszXX8EPFgSkAuyDrT8bS1ASu_rC1Ib4inhyNw7FMm4O9nteSD1PNluCY8VUU4z5aCw5z_MgNoJMpKBhW7i86NI0AeeiN8hZcxPnT1jOnEgNdEpMA1HToxcGqxMzhY89bYeWZGMvh0hQDIZU6TNpxdquNqMj_L7k7Mo9feuUjKbiGF_w_8VTPfsiAekCtp3bAUB8GG8jTGvqObJO-JTA7dn6aptRpPrFb7HkVFeeQYn-Q?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 686</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. AUGUSTO FRANCO X RUA LARANJEIRAS</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA DEA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO </value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ R</value>
+      </Data>
+      <Data name="DATA">
+        <value>02/02/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.91153, -37.0669084</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkp-v9QvlZlev1u8ndoE5tcFFb7jiguuqgD6biS5rozTCDjhpkl7EbD0YCScT7haq2SR3FulKcQx7E_3N2vH54nmO1irWUniaNHnZtmWrUjvCBNSfn6s_1N48VSFZlJ_ZKWJU7pmdBnlqUvDsQxRLRsRwpaJ9_Ny7odKRp2TyIIjlBv9sLH9P9rwS8sEZs_We8sWO1X-0I8yYcCKpKzESsN1Ujp2Y2d2hGYJAl-QlIWt5-anhOdycqHil0Y?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 688</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. DR. SÍLVIO CABRAL SANTANA X RUA MANOEL MESSIAS MELO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>EM FRENTE AO CONDOMÍNIO RAVINES</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>ARUANA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/02/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-11.0153265, -37.0777144</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkq2wp9rQjBwqBC_x_aWZqhzJmhyDf3EOvuEtSxep814qzVee0Qli6eGSXB02twhxPGWRquTHhzcZLQNOr6mmM1VcG73aJDnR7YkHqkZJp-1FyxLhWZPRWLCQhFEKRfoSQiOoNmvD-vgBaYz3AwGSfaItofp5htKiDhAm9WbjuRIuwC3K4DGMlDM39qLuPE_SCVkSAO4YBs5XKGpjn1KV_9cOVF8plJ8aMr3I3tuKzZ3SYUnOat37grugOY?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 690</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. COELHO E CAMPOS X RUA LAGARTO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ R</value>
+      </Data>
+      <Data name="DATA">
+        <value>26/01/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9061051, -37.0534311</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoqIin5KbytFdSyaE0Hu7CfnW9pMxcxhHAJhZnb655EsPfGTJAJBkPIzo6-x-tutCzzas-Ymxrok41G5bZfTsbR1anJntcbum3j49g8oczCi3ZRuDQ0E7J3c3JCR2gwh8peZWyCw68r_Y7EYqCzjkfFSpoarrx9Nv1CrUR1nVp8kcyKepNwG7bCbUVGFA2fBVgqZUWTu57aRwJcrRpk3lmL0EVA8GaU5aRCwpp3nwCWzRI3gUKG8rN-p9A?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 691</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. COELHO E CAMPOS X RUA LAGARTO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>CENTRO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ R.</value>
+      </Data>
+      <Data name="DATA">
+        <value>26/01/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9061018, -37.0533552</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoNyF3DizI5IAmXEcRHyEEW3jJ7LA_Ju8SSGkp2Z557BkYA1HMjv1YpafDNalVo2xs2Whi6p_RWdtE2Xe8er4EO8zmIKtio8hOLA9SCwpW5eT8b9MJ6R-wKFJ1ZAKBMd0Y40w2CPUn7NnJo_vDI9b7C9gnTuAQZ6CSYegzf6_WfyaY6hZ-MRqZ2MSq6VVSzb-iTtp98O-iiDKpzzghan5ZjrmE50kkADm9v-QopnKi7YKfWWpam2psOHpE?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 692</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. DR. JOSÉ DA SILVA RIBEIRO FILHO X RUA PARAGUAÇU</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>AMÉRICA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ R.</value>
+      </Data>
+      <Data name="DATA">
+        <value>26/01/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9186015, -37.0799131</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqcySxGsq5FQ0osGMRQdnAgNKX2aDQynSqAOsBkQ8tfEFntKFZAit8NUKhix7DT4C3QHzCgMMvDqAPQSP6J2vsGVXjyb4XDhiL4ZhGYFatJWFmClDJmhOlQyjhDnHZIegGvIVdJ9FysIwG9Vmpb0lQXc6c4CJAhsKFr-rRlfHfS7XE30bT9IR3gIW5zVGWp-VN43izJ38itBKHpq2yVMYp93NO89SqbnLurvp1GVvj-aKqffoY04qE_vcU?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 693</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. DR. JOSÉ DA SILVA RIBEIRO FILHO X RUA PARAGUAÇU</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>AMÉRICA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ R.</value>
+      </Data>
+      <Data name="DATA">
+        <value>26/01/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9186722, -37.0797938</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoCi6LkiXJq2-t0nIcOC6S_dRAnAVjDxuP5NCZ83aWAuOwKZ7FGiKXA5ohiV9kl4_hhguGnM6LyhNAloUqh1QL5RQU8t6HG0z_r9K7sxGmxEFVfOvZT_1l8Gp-Kd3LKecaNyR_7xb7bGPBb2Ce2-0CafISndE1AfO6RAOKaqwr6DUP59ESFgSyFJ3CNrFg3VajquLWAvhQ-kkgPK12hQW7nKGRgAJomqtMC9CUFdfd1dNLi4js_tfvve9A?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 694</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO X AV. MARIETA LEITE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA HOTEL IBIS</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>GRAGERU</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>19/01/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.942032, -37.0666967</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkowaR5R3RPQ01HFJ2xUf2aOSSgIUONaBed803DgR7jBa0tum-OlIYW6M9B7vtsUfDT6Fj-8I3PhgBKI7JrPMxmpsje95aDXIaE6ZFH_wtM009wwdXLfs4pNQgJHTDvcMkhksX8lb8JX-0Ex2tXRPn0N6R0MuNO5z7wy8yQgWVGPoG2IyNTNDGOJzODzW3rV5nUYkz4gwjF1t_u4wArnuY9mKp7gRZzkN3Nphgty4VYFVB63AVssyTXd0n8?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 695</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. CAP. JOAQUIM M FONTES X RUA ALFERES JOSÉ PEDRO DE BRITO </value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>FAROLÂNDIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>19/01/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9691133, -37.055232</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkr28LmBISKpeEUD554bvJ4AMii3qpiAlkIKvUk20ukZVXRzOe9RurUL5ytCcVLV_G1gAZrqaEwLtDipcIuy64Ecfe9cGWL7ckJYO9xNvQFmVgnzQjdcU9OCybUByWUATaxHY1inQ4eay-7Ozc63tqg69e7t--HJnuYsYDjX1IVZK4OECZfn4vIAGgYPwFOfFZVt9Iw-GcsBXR9r0Gh6nfdJFlOfzFA6juO7ezo41LfbLIDaX0yYyScWDzk?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 699</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>APÓIS O ASSAI</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>INÁCIO BARBOSA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>23/01/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9460465, -37.0713347</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpiWFMJ5bAXtTxERolobpWBw-0LL59Mq-agim8I_HPnxfKSKMEnWanQRR6EDdN1kioSN9sjLqqXZ83L3AsHPiUSJBacJVlMNkDUncF27NUilh3H11XATEu4LjclFaWpcpDXYuuhDjLV01zIwY2QSWWnpIOXnA7oQ8GWEetcjt-rXf1bh2Uqev-FwY5_0aK5ZSjTSVa2Tl-Q4q9Uvjkven3fAsdBdAQrV_gwkL8fB8PQC_VwZ5RSkVpwLgM?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrzZ96X0RtE8fHhmrNAH5OK5UIl4uWzo1J-8TYh39pg4AHx71x6-7LMc4voUrYzFf0JWWb-4P_FmLSkrJ8EvxASuXAZDNOU6q9NXmnJb0tEbfRkKQcJIKovtuAurqQ_XA1rsz4SD-950C5vuQxaxYsVXIZNa4nnmUJF5VR1z7uX6NDKZHb9vQBeqtHgcvUVV38m3waPWZoutGPrDSJVUAM97nVWc-3zZ4-AeqYXPjdNJCfvdd9nLpERq6A?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoPqHGobyWzL3_POwaxs5UyjnfqXenCSclHCIlVo3MHIMXkmgBFtqUdi5wsKYmCyKlgjQJihwXCU7_IrZGTopJ5UumlDsJQSltPJhPm8ks1tyGfMMXAYBCa3KxFBqpZYbPZajrd0Rm74UZK9eAhO9jaZgGrwN5kvLDd-zlXRXuGE8ki73Cf9j1_HwTibAbclu6Ns-U8A9UOCuqqIbuqZ6MZHEkZj8EX6yftNRuSEnCeKladZ_VnpnlDxfQ?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkq7mESgp6hTH6LCTTOfKCflJRW6TTsD3g-1DisC3LNeO-fBrQ6r56lpZI6wqGKar8xeImsWio-uG_rK641sNVHCfCt88nKGbbKR2uaQRit9mv_tQLUTMwcAo7IfkkGDSeDm3KdLx3Gr2jXES7nAUJV02ZQHr2LhHiOmYKPap1QpETck9Km-z9R7L2ac1jnlsmKDKnJkyHh8mx-qIEA-wds2kDEDtjYhI8ZLnZpE0oQJ2GiSvES0TYbzv8M?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 702</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>EM FRENTE CONDOMÍNIO PORTO DAS ÁGUAS</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>INÁCIO BARBOSA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>23/01/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.945915, -37.0713648</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqrgLtRFM6SXKwBnmaOyY5UvFRau0E9Nbs9wCDTQi6mw2K65U2osZTtk8iFX8HY0yBy_ThbAzKbt7LD3DbquiJZ8nsrdjRsN7HxaSAroxR-iMwr4FLBurtkkaosJCx0bddWS4DSKgA8oWxya85dn20393Bi0ZuHgC_fyJNRiyqvXTeyPspz7dIskMtFN1hXbM-dpQbeewGVrBOib8Wlh0vzWRmebpG5IkWvhL_4WHbOdd6RBM69jla07ZI?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 703</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO X RUA GUTEMBERG CHAGAS</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CALÇADA</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>INÁCIO BARBOSA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>23/01/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9446653, -37.069608</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpGwVlzDBG9Qh9ltmaOcl7KOxbHzv5NWBqBurvevKIldT6guB48i9JAi1GrcPVPdgoGhupxeclM69h9B-8d3sO2gtw1NAYtWHN23FkHHemtrf_rvEiqDe315HmG0ifRMZFgSVN9AS_L4oY4f68rdbDxXu9LDjOa6idXH0IWFfpVZ7s8RsAcUdXEd_Mp0wSKvRgX3Pjc4WjqHS3v1VJiC2yQpjWUHnev5EhpYZDCvxGW9S0Dr823EHfzPJg?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 704</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO X AV. MARIETA LEITE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>LUZIA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>31/01/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9418678, -37.066834</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqNFxFzwvQpxAAelOODg85fFtlz9aWmzntHBQ3sHFgsoEmknrD6VCkrHIEOmYPip5PsXnYEsLLsLzVSISRzwWFbUHZ5i6Sg7UcUE6BSX1z0SQRZpkuXQawIoiWVIhG_zt5ZFuYXxlhtSRLsRisSq4UxAwZE2CIWgbKK5m0RjfsT5biwl_AK0qQEOSTNguE_zs216ZCYa-EwEi0bsFpzEshEV0vJNGZzx_cOiv2Ja0wctxwCtDcxITJsGrg?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 716</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. HERMES FONTES X RUA PROM. ARQUIBALDO MENDONÇA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SUISSA</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/01/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9291216, -37.0603602</value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 717</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO X RUA HUMBERTO PORTO DÓRIA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>GRAGERU</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>30/04/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9442375, -37.0694895</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoV99kEHscVEbC20jYOO_-32mqEvoYcQDza6GlnG-l-ItHr47iiYBtDG-PcF5f1xnm-_6pDm40mqKvv4dM6iWmjPVySIiP3X2nHrgdxXs4MTeyXL9RxrlTQ04792Ist_BGoHjL5onO8E8vxDCxxUbRhZM0Pcy2kUAcoMWzjZLXZ98ljKETckr1uTR1i_BKr0UdhJIKmVCgDNEKb8etPgTIQP5eJCMHOfgOVEOTYJDDLf_IIbwGrxIIB46g?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 720</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. ADÉLIA FRANCO X AV. MARIETA LEITE</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO EM FRENTE AO IBIS</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>GRAGERU</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/03/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9419708, -37.0667529</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkpbn-kECvS2nY9JSOBlcA0zvSrFRur9SfabMUAZ8lmthm53MCp4x3HrbreQQE1AFOoCX19Brvie3SZINPWosR9eDnZPdTZ4PaUqx2sQd6-LL1xBjmBu51_dYMcMJLtivCLkba30fWonfwQeb1o15AGNhfM0hgeClssXObwMVecg-v2tuwkpkupcNBdp6Q2avLUqjlD0mRTBYBHd9-ZtUG1zKIwy0XBe-iexGJR4b76DrVeeMyopJK4LB9I?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 723</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. HERMES FONTES X RUA MIN. NELSON HUNGRIA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>GRAGERU</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/04/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9343033, -37.0624194</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqdlXErKYzuBhsk53WC1bbZJlXB-X_MiRuPkYSAOdgLaX2tnDNb-vqOuMz7pi3jUZ3kipaCLcnQCbXvzRkcGeZR2EepBXKXqlwlILzHQq9K2841aLmlZyG1K1GfvupRUlqDKhMQm9R39ChvQJ7RvB9vvDYcIY7phSc1vvY7JoZfY7GN6cd1nkyI8k_HYIsog8WU3V49gpWQqpSGg91FQnwKNcih1OgUVuzYdGoBoOvTWW4uiu6YGnPstf0?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 724</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. HERMES FONTES X RUA MIN. NELSON HUNGRIA</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>GRAGERU</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/04/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9342566, -37.0623939</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkphhnrkAXUog9IIuu9PK475SwYE5nUWnkwFetl4ro8MgRreRo8mRiO5JBNQ1AkR1Sw68-10ygYgPNVrZ5hJfmcAlHD3amE1mZyMVcmtQtpweT5u11KjMgfYYyTFi1x53vRx9U1Vvex25hatYU0E4s7EoghhID2d-Fwe2tQTLzk_y71rula7vI5jObUAn057CAmH34bBos7XOM6Hhp3g1LveA6B7LgXIMlXPSGbmBgBP03bz28Ou4pUzv9E?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 745</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV. PROF. ACRÍSIO CRUZ X RUA ANANIAS AZEVEDO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>SALGADO FILHO</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>01/06/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9324226, -37.0533723</value>
+      </Data>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrzoV18wTp37cYawYHQ1q4oE0SQQE9AznNzlgofgp94a9F5AVUJTEJgXJgXGQusXJBHLd4_MaGTrkQsFdBI7rTAO_9rlsfAHiMBst7qXcLyIQwmnqZ_yoiBOC0vR-ee5GTD_3vh8xOsfOAABKqDXIS5v20CAslXDJSLDUTexhz2Ct2GjEAsv_cc2D24Zrft0_TZNAwlfW9UERoJVuwjB4BsPrGJNi4aYAEoAbW__hZBC8Ag5atPKJO87O4?authuser=0&fife=s16383]]></value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ponto 761</name>
+    <ExtendedData>
+      <Data name="RUA/CRUZAMENTO">
+        <value>AV,  FRANCISCO PORTO X AV. JORGE AMADO</value>
+      </Data>
+      <Data name="REFERENCIA">
+        <value>CANTEIRO EM FRENTE AO GB</value>
+      </Data>
+      <Data name="BAIRRO">
+        <value>TREZE DE JULHP</value>
+      </Data>
+      <Data name="SITUAÇÃO">
+        <value />
+      </Data>
+      <Data name="CLIENTE">
+        <value>MARATÁ</value>
+      </Data>
+      <Data name="DATA">
+        <value>15/08/2024</value>
+      </Data>
+      <Data name="COORDENADAS">
+        <value>-10.9346833, -37.0523469</value>
+      </Data>
+    </ExtendedData>
+  </Placemark>
+</Document>
